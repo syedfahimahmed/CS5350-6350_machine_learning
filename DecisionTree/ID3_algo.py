@@ -97,7 +97,7 @@ class Decision_Tree:
         gini = 1
 
         for count in counts:
-            gini = gini - ((count / len(label)) ** 2)
+            gini -= (count / len(label)) ** 2
 
         return gini
 

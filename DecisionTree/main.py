@@ -18,7 +18,7 @@ df = pd.DataFrame(columns=["Depth", "Entropy_train", "Entropy_test", "Gini_train
 for depth in range(1, 7):
     for benchmark in ['entropy', 'gini', 'majority']:
         car_decision_tree = Decision_Tree(car_train_data, list(car_train_data.columns[:-1]), car_train_data['label'],
-                                         max_depth=depth)
+                                         max_depth=depth, benchmark=benchmark)
 
         # get train and  test errors for dataframe
         if benchmark == 'entropy':
@@ -56,11 +56,12 @@ bank_test_data.columns = bank_column_names
 # bank data numerical columns
 bank_numerical_columns = ['age', 'balance', 'day', 'duration', 'campaign', 'pdays', 'previous']
 # median of numerical attributes of bank train data
-numerical_thresholds = bank_train_data[bank_numerical_columns].median()
+train_numerical_thresholds = bank_train_data[bank_numerical_columns].median()
+test_numerical_thresholds = bank_test_data[bank_numerical_columns].median()
 
 #  consider unknown as category
-preprocessed_bank_train_df = preprocessing_bank_data(bank_train_data, numerical_thresholds, bank_numerical_columns)
-preprocessed_bank_test_df = preprocessing_bank_data(bank_test_data, numerical_thresholds, bank_numerical_columns)
+preprocessed_bank_train_df = preprocessing_bank_data(bank_train_data, train_numerical_thresholds, bank_numerical_columns)
+preprocessed_bank_test_df = preprocessing_bank_data(bank_test_data, test_numerical_thresholds, bank_numerical_columns)
 
 # create dataframe of bank for latex table
 df1 = pd.DataFrame(columns=["Depth", "Entropy_train", "Entropy_test", "Gini_train", "Gini_test", "Major_train", "Major_test"])
@@ -70,7 +71,7 @@ print("Bank Dataset Evaluation (with unknown considered as value):")
 for depth in range(1, 17):
     for benchmark in ['entropy', 'gini', 'majority']:
         bank_decision_tree = Decision_Tree(preprocessed_bank_train_df, list(preprocessed_bank_train_df.columns[:-1]),
-                                          preprocessed_bank_train_df['y'], max_depth=depth)
+                                          preprocessed_bank_train_df['y'], max_depth=depth, benchmark=benchmark)
 
         # get train and  test errors for dataframe
         if benchmark == 'entropy':
@@ -113,7 +114,8 @@ for depth in range(1, 17):
     for benchmark in ['entropy', 'gini', 'majority']:
         bank_decision_tree_for_replaced_unknown_values = Decision_Tree(preprocessed_bank_train_df,
                                                                       list(preprocessed_bank_train_df.columns[:-1]),
-                                                                      preprocessed_bank_train_df['y'], max_depth=depth)
+                                                                      preprocessed_bank_train_df['y'], max_depth=depth,
+                                                                       benchmark=benchmark)
 
         # get train and  test errors for dataframe
         if benchmark == 'entropy':
