@@ -27,7 +27,7 @@ std_weights = std_per_train(X_train, Y_train, epochs=10, lr=0.1)
 avg_std_percetron_error_rate = std_per_evaluate(X_test, Y_test, std_weights)
 
 print("############ Standard Perceptron ############")
-print("Standard perceptron Learned weight vector: ", std_weights)
+print("Standard perceptron: Learned weight vector: ", std_weights)
 print("Average standard perceptron prediction error on the test dataset: ", avg_std_percetron_error_rate)
 print("\n\n")
 
@@ -41,6 +41,8 @@ with open("voted_weights_counts.txt", "w") as external_file:
     for i in range(1, len(voted_weight_list)):
         print("Distinct weight vector-",i," : ", voted_weight_list[i], file=external_file)
         print("Correctly predicted examples using weight vector-",i," : ", count_list[i], file=external_file)
+        print("Distinct weight vector-",i," : ", voted_weight_list[i])
+        print("Correctly predicted examples using weight vector-",i," : ", count_list[i])
 external_file.close()
 print("\n")
 print("Voted learned weight vector: ", voted_weight_array[-1])

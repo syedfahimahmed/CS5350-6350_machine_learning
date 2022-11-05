@@ -1,1138 +1,1132 @@
-Distinct weight vector- 1  :  [-0.20139  -0.61416  -0.037929 -0.056938]
+Distinct weight vector- 1  :  [-0.23925 -0.9798   0.30361  0.28224]
 Correctly predicted examples using weight vector- 1  :  1
-Distinct weight vector- 2  :  [-0.54806  -0.20692  -0.466749 -0.211118]
-Correctly predicted examples using weight vector- 2  :  8
-Distinct weight vector- 3  :  [-0.70378  -1.195     0.344131 -0.319178]
-Correctly predicted examples using weight vector- 3  :  15
-Distinct weight vector- 4  :  [-1.1331   -0.86081   0.421389 -0.418963]
-Correctly predicted examples using weight vector- 4  :  2
-Distinct weight vector- 5  :  [-1.108706 -0.71348   0.279469 -0.477498]
-Correctly predicted examples using weight vector- 5  :  5
-Distinct weight vector- 6  :  [-1.304426 -0.20195  -0.581801 -0.334528]
-Correctly predicted examples using weight vector- 6  :  2
-Distinct weight vector- 7  :  [-1.171686 -1.15175  -0.825881  0.192362]
-Correctly predicted examples using weight vector- 7  :  5
-Distinct weight vector- 8  :  [-1.200382 -0.83391  -1.183551 -0.126598]
-Correctly predicted examples using weight vector- 8  :  1
-Distinct weight vector- 9  :  [-1.491762 -1.78102  -0.206871 -0.186814]
-Correctly predicted examples using weight vector- 9  :  11
-Distinct weight vector- 10  :  [-2.021882  -1.04187   -0.2039011 -0.926684 ]
-Correctly predicted examples using weight vector- 10  :  10
-Distinct weight vector- 11  :  [-1.757092  -2.05561   -0.0708011 -0.379614 ]
-Correctly predicted examples using weight vector- 11  :  19
-Distinct weight vector- 12  :  [-1.621912  -1.94966   -0.3051711 -0.339616 ]
-Correctly predicted examples using weight vector- 12  :  1
-Distinct weight vector- 13  :  [-1.646657  -1.75598   -0.5521411 -0.420134 ]
-Correctly predicted examples using weight vector- 13  :  5
-Distinct weight vector- 14  :  [-1.754677  -1.53602   -0.8107611 -0.547724 ]
-Correctly predicted examples using weight vector- 14  :  5
-Distinct weight vector- 15  :  [-1.7638964 -1.496705  -0.8436071 -0.561518 ]
-Correctly predicted examples using weight vector- 15  :  15
-Distinct weight vector- 16  :  [-1.6188864 -1.136035  -1.2491771 -0.721178 ]
-Correctly predicted examples using weight vector- 16  :  18
-Distinct weight vector- 17  :  [-1.5812494 -1.218393  -1.1706341 -0.646654 ]
-Correctly predicted examples using weight vector- 17  :  6
-Distinct weight vector- 18  :  [-1.7415394 -1.257296  -1.0086341 -0.455624 ]
-Correctly predicted examples using weight vector- 18  :  8
-Distinct weight vector- 19  :  [-1.6195594 -1.047476  -1.3281741 -0.442781 ]
-Correctly predicted examples using weight vector- 19  :  7
-Distinct weight vector- 20  :  [-1.4001294 -0.592446  -1.8257741 -0.715321 ]
-Correctly predicted examples using weight vector- 20  :  1
-Distinct weight vector- 21  :  [-1.6709594 -1.275106  -1.0723841 -0.656314 ]
-Correctly predicted examples using weight vector- 21  :  3
-Distinct weight vector- 22  :  [-1.5690194 -1.164816  -1.3023841 -0.596919 ]
-Correctly predicted examples using weight vector- 22  :  22
-Distinct weight vector- 23  :  [-2.0067494 -1.716486  -0.2084841 -0.637739 ]
-Correctly predicted examples using weight vector- 23  :  4
-Distinct weight vector- 24  :  [-2.1021524 -1.518246  -0.4401141 -0.757309 ]
-Correctly predicted examples using weight vector- 24  :  8
-Distinct weight vector- 25  :  [-2.0126404 -1.040866  -0.9244241 -1.316399 ]
-Correctly predicted examples using weight vector- 25  :  14
-Distinct weight vector- 26  :  [-2.0005144 -1.018519  -0.9717511 -1.219375 ]
-Correctly predicted examples using weight vector- 26  :  14
-Distinct weight vector- 27  :  [-1.9790834 -1.088048  -0.8840401 -1.189722 ]
-Correctly predicted examples using weight vector- 27  :  8
-Distinct weight vector- 28  :  [-2.0448504 -1.368228  -0.5128901 -1.089983 ]
-Correctly predicted examples using weight vector- 28  :  18
-Distinct weight vector- 29  :  [-2.0294274 -1.356434  -0.6811201 -1.030459 ]
-Correctly predicted examples using weight vector- 29  :  11
-Distinct weight vector- 30  :  [-1.9066374 -0.953344  -1.1454701 -1.421709 ]
-Correctly predicted examples using weight vector- 30  :  16
-Distinct weight vector- 31  :  [-1.9597094 -0.9630705 -1.1672631 -1.317449 ]
-Correctly predicted examples using weight vector- 31  :  46
-Distinct weight vector- 32  :  [-1.8006694 -0.7418605 -1.4790931 -1.329174 ]
-Correctly predicted examples using weight vector- 32  :  14
-Distinct weight vector- 33  :  [-1.80026395 -0.6789555  -1.5432141  -1.253357  ]
-Correctly predicted examples using weight vector- 33  :  1
-Distinct weight vector- 34  :  [-1.96846395 -1.3601655  -0.8292341  -1.120127  ]
-Correctly predicted examples using weight vector- 34  :  6
-Distinct weight vector- 35  :  [-2.00926795 -1.3059515  -0.8819591  -1.054267  ]
-Correctly predicted examples using weight vector- 35  :  5
-Distinct weight vector- 36  :  [-1.97492795 -1.2935365  -0.9106921  -1.039613  ]
-Correctly predicted examples using weight vector- 36  :  6
-Distinct weight vector- 37  :  [-1.99632195 -1.3618235  -0.9010389  -0.919963  ]
-Correctly predicted examples using weight vector- 37  :  39
-Distinct weight vector- 38  :  [-1.87552195 -0.9543835  -1.3773889  -1.181253  ]
-Correctly predicted examples using weight vector- 38  :  2
-Distinct weight vector- 39  :  [-1.80109395 -1.3316135  -1.2160789  -1.023713  ]
-Correctly predicted examples using weight vector- 39  :  10
-Distinct weight vector- 40  :  [-1.64299395 -1.2447045  -1.4474589  -0.941301  ]
-Correctly predicted examples using weight vector- 40  :  13
-Distinct weight vector- 41  :  [-1.63997205 -1.3498245  -1.3072189  -0.863932  ]
-Correctly predicted examples using weight vector- 41  :  13
-Distinct weight vector- 42  :  [-1.48920205 -1.1538645  -1.6130589  -0.876175  ]
+Distinct weight vector- 2  :  [-0.16876  -0.962626  0.12502   0.318359]
+Correctly predicted examples using weight vector- 2  :  1
+Distinct weight vector- 3  :  [-0.5681   -0.379296  0.179743 -0.175431]
+Correctly predicted examples using weight vector- 3  :  1
+Distinct weight vector- 4  :  [-0.478588  0.098084 -0.304567 -0.734521]
+Correctly predicted examples using weight vector- 4  :  1
+Distinct weight vector- 5  :  [-0.717568  0.019657 -0.003157 -0.658316]
+Correctly predicted examples using weight vector- 5  :  2
+Distinct weight vector- 6  :  [-0.760958 -0.534293 -0.206457 -0.617884]
+Correctly predicted examples using weight vector- 6  :  6
+Distinct weight vector- 7  :  [-0.659788 -0.444073 -0.441517 -0.57517 ]
+Correctly predicted examples using weight vector- 7  :  15
+Distinct weight vector- 8  :  [-0.700592 -0.389859 -0.494242 -0.50931 ]
+Correctly predicted examples using weight vector- 8  :  20
+Distinct weight vector- 9  :  [-0.753664  -0.3995855 -0.516035  -0.40505  ]
+Correctly predicted examples using weight vector- 9  :  8
+Distinct weight vector- 10  :  [-0.623664  -1.4263655 -0.220735   0.18133  ]
+Correctly predicted examples using weight vector- 10  :  1
+Distinct weight vector- 11  :  [-0.651679  -1.1190755 -0.559305  -0.11022  ]
+Correctly predicted examples using weight vector- 11  :  1
+Distinct weight vector- 12  :  [-0.992509  -0.6332055 -0.636193  -0.5969   ]
+Correctly predicted examples using weight vector- 12  :  2
+Distinct weight vector- 13  :  [-0.789409  -0.4480055 -0.937403  -0.5965997]
+Correctly predicted examples using weight vector- 13  :  8
+Distinct weight vector- 14  :  [-0.983499  -1.3164855 -0.021903  -0.5025507]
+Correctly predicted examples using weight vector- 14  :  7
+Distinct weight vector- 15  :  [-0.810189  -0.9210455 -0.496023  -0.7527207]
+Correctly predicted examples using weight vector- 15  :  4
+Distinct weight vector- 16  :  [-1.015479  -0.5371955 -0.575567  -0.8741007]
+Correctly predicted examples using weight vector- 16  :  5
+Distinct weight vector- 17  :  [-0.936789  -1.4938255 -0.196897  -0.1237607]
+Correctly predicted examples using weight vector- 17  :  5
+Distinct weight vector- 18  :  [-1.312489  -0.9514655 -0.579447   0.0014993]
+Correctly predicted examples using weight vector- 18  :  3
+Distinct weight vector- 19  :  [-1.932519   -0.0834055  -0.57853356 -0.3688007 ]
+Correctly predicted examples using weight vector- 19  :  2
+Distinct weight vector- 20  :  [-1.700099   -1.2351655  -0.76084356  0.1686993 ]
+Correctly predicted examples using weight vector- 20  :  8
+Distinct weight vector- 21  :  [-1.897999   -0.9121555  -0.89659356 -0.0894907 ]
+Correctly predicted examples using weight vector- 21  :  9
+Distinct weight vector- 22  :  [-1.772279   -0.4248455  -1.42520356 -0.6769007 ]
+Correctly predicted examples using weight vector- 22  :  7
+Distinct weight vector- 23  :  [-1.502389   -1.6446855  -1.49286456  0.1779193 ]
+Correctly predicted examples using weight vector- 23  :  1
+Distinct weight vector- 24  :  [-1.5116084  -1.6053705  -1.52571056  0.1641253 ]
+Correctly predicted examples using weight vector- 24  :  14
+Distinct weight vector- 25  :  [-1.9512784  -1.1093605  -1.59060256 -0.3830647 ]
+Correctly predicted examples using weight vector- 25  :  1
+Distinct weight vector- 26  :  [-2.4065884  -2.3679005  -0.04643256 -0.5328947 ]
+Correctly predicted examples using weight vector- 26  :  21
+Distinct weight vector- 27  :  [-2.3098804  -1.9836405  -0.53957256 -0.9461247 ]
+Correctly predicted examples using weight vector- 27  :  1
+Distinct weight vector- 28  :  [-2.3924814  -1.6875305  -0.66821256 -1.0925947 ]
+Correctly predicted examples using weight vector- 28  :  2
+Distinct weight vector- 29  :  [-2.3406814  -1.6616655  -0.75229756 -0.9964767 ]
+Correctly predicted examples using weight vector- 29  :  2
+Distinct weight vector- 30  :  [-2.3736054  -1.2161455  -1.20947756 -0.8975967 ]
+Correctly predicted examples using weight vector- 30  :  4
+Distinct weight vector- 31  :  [-2.2145654  -0.9949355  -1.52130756 -0.9093217 ]
+Correctly predicted examples using weight vector- 31  :  18
+Distinct weight vector- 32  :  [-2.4407354  -1.4692155  -0.88641756 -0.8981597 ]
+Correctly predicted examples using weight vector- 32  :  1
+Distinct weight vector- 33  :  [-2.4193044  -1.5387445  -0.79870656 -0.8685067 ]
+Correctly predicted examples using weight vector- 33  :  21
+Distinct weight vector- 34  :  [-2.2703444  -1.1958645  -1.20179656 -1.0110967 ]
+Correctly predicted examples using weight vector- 34  :  1
+Distinct weight vector- 35  :  [-2.1385144  -1.0056945  -1.53290656 -1.0045896 ]
+Correctly predicted examples using weight vector- 35  :  8
+Distinct weight vector- 36  :  [-2.2158024  -1.7504245  -0.88370656 -0.9684706 ]
+Correctly predicted examples using weight vector- 36  :  10
+Distinct weight vector- 37  :  [-2.1513304  -1.2898045  -1.71840656 -0.6974806 ]
+Correctly predicted examples using weight vector- 37  :  11
+Distinct weight vector- 38  :  [-2.1686264  -1.4079645  -1.58022656 -0.6241206 ]
+Correctly predicted examples using weight vector- 38  :  21
+Distinct weight vector- 39  :  [-2.3692864  -2.0798645  -0.67860656 -0.6141221 ]
+Correctly predicted examples using weight vector- 39  :  51
+Distinct weight vector- 40  :  [-2.1301164  -1.6242145  -1.17748656 -0.9039921 ]
+Correctly predicted examples using weight vector- 40  :  9
+Distinct weight vector- 41  :  [-2.0073264  -1.2211245  -1.64183656 -1.2952421 ]
+Correctly predicted examples using weight vector- 41  :  5
+Distinct weight vector- 42  :  [-1.9729864  -1.2087095  -1.67056956 -1.2805881 ]
 Correctly predicted examples using weight vector- 42  :  6
-Distinct weight vector- 43  :  [-1.28743205 -0.9740445  -1.9088689  -0.855185  ]
-Correctly predicted examples using weight vector- 43  :  5
-Distinct weight vector- 44  :  [-1.54408205 -1.6622845  -1.1547089  -0.784411  ]
-Correctly predicted examples using weight vector- 44  :  5
-Distinct weight vector- 45  :  [-1.34098205 -1.4770845  -1.4559189  -0.7841107 ]
-Correctly predicted examples using weight vector- 45  :  8
-Distinct weight vector- 46  :  [-1.28504305 -1.5081245  -1.4376119  -0.7394577 ]
-Correctly predicted examples using weight vector- 46  :  10
-Distinct weight vector- 47  :  [-1.36250405 -1.6958045  -1.1973819  -0.6262677 ]
-Correctly predicted examples using weight vector- 47  :  4
-Distinct weight vector- 48  :  [-1.71991405 -1.3014045  -1.2052939  -0.8382977 ]
-Correctly predicted examples using weight vector- 48  :  2
-Distinct weight vector- 49  :  [-1.85651405 -1.2829885  -1.1147549  -0.6802377 ]
-Correctly predicted examples using weight vector- 49  :  14
-Distinct weight vector- 50  :  [-1.88943805 -0.8374685  -1.5719349  -0.5813577 ]
-Correctly predicted examples using weight vector- 50  :  44
-Distinct weight vector- 51  :  [-2.24859805 -1.4603185  -0.5480449  -0.6967877 ]
+Distinct weight vector- 43  :  [-2.3747164  -2.0399395  -0.42509956 -1.4243381 ]
+Correctly predicted examples using weight vector- 43  :  1
+Distinct weight vector- 44  :  [-2.4452864  -1.4901295  -1.25877956 -1.1371881 ]
+Correctly predicted examples using weight vector- 44  :  1
+Distinct weight vector- 45  :  [-2.3893474  -1.5211695  -1.24047256 -1.0925351 ]
+Correctly predicted examples using weight vector- 45  :  10
+Distinct weight vector- 46  :  [-2.2213574  -1.1004895  -1.69445256 -1.3318451 ]
+Correctly predicted examples using weight vector- 46  :  27
+Distinct weight vector- 47  :  [-2.3579574  -1.0820735  -1.60391356 -1.1737851 ]
+Correctly predicted examples using weight vector- 47  :  2
+Distinct weight vector- 48  :  [-2.4239654  -1.4046735  -1.22333356 -1.0554251 ]
+Correctly predicted examples using weight vector- 48  :  10
+Distinct weight vector- 49  :  [-2.2045354  -0.9496435  -1.72093356 -1.3279651 ]
+Correctly predicted examples using weight vector- 49  :  70
+Distinct weight vector- 50  :  [-2.6334054  -1.7359735  -0.53706356 -1.5177451 ]
+Correctly predicted examples using weight vector- 50  :  2
+Distinct weight vector- 51  :  [-2.8059754  -1.2890035  -1.35925356 -1.3370151 ]
 Correctly predicted examples using weight vector- 51  :  11
-Distinct weight vector- 52  :  [-2.30054805 -1.1339885  -0.8569949  -0.5982977 ]
-Correctly predicted examples using weight vector- 52  :  5
-Distinct weight vector- 53  :  [-2.33346805 -0.6884685  -1.3141749  -0.4994177 ]
-Correctly predicted examples using weight vector- 53  :  6
-Distinct weight vector- 54  :  [-2.50825805 -1.2707685  -0.7271849  -0.3782177 ]
+Distinct weight vector- 52  :  [-2.8085068  -1.3063865  -1.37059256 -1.2150351 ]
+Correctly predicted examples using weight vector- 52  :  77
+Distinct weight vector- 53  :  [-2.7576938  -1.2585875  -1.56863256 -1.1573211 ]
+Correctly predicted examples using weight vector- 53  :  17
+Distinct weight vector- 54  :  [-2.6276938  -2.2853675  -1.27333256 -0.5709411 ]
 Correctly predicted examples using weight vector- 54  :  3
-Distinct weight vector- 55  :  [-2.55022305 -0.9798285  -0.9057749  -0.5989077 ]
-Correctly predicted examples using weight vector- 55  :  8
-Distinct weight vector- 56  :  [-2.37147305 -0.5018285  -1.4193949  -0.9225277 ]
-Correctly predicted examples using weight vector- 56  :  8
-Distinct weight vector- 57  :  [-2.56263305 -1.1178585  -0.8587949  -0.8739947 ]
-Correctly predicted examples using weight vector- 57  :  14
-Distinct weight vector- 58  :  [-2.49816105 -0.6572385  -1.6934949  -0.6030047 ]
-Correctly predicted examples using weight vector- 58  :  7
-Distinct weight vector- 59  :  [-2.22827105 -1.8770785  -1.7611559   0.2518153 ]
-Correctly predicted examples using weight vector- 59  :  4
-Distinct weight vector- 60  :  [-2.43356105 -1.4932285  -1.8406999   0.1304353 ]
-Correctly predicted examples using weight vector- 60  :  28
-Distinct weight vector- 61  :  [-2.35980105 -1.0079785  -2.3205599  -0.4361547 ]
-Correctly predicted examples using weight vector- 61  :  8
-Distinct weight vector- 62  :  [-2.58063105 -1.9186685  -1.4206499  -0.4645607 ]
+Distinct weight vector- 55  :  [-2.4695938  -2.1984585  -1.50471256 -0.4885291 ]
+Correctly predicted examples using weight vector- 55  :  3
+Distinct weight vector- 56  :  [-2.8920838  -1.5714685  -1.48889056 -1.0430991 ]
+Correctly predicted examples using weight vector- 56  :  1
+Distinct weight vector- 57  :  [-2.8890619  -1.6765885  -1.34865056 -0.9657301 ]
+Correctly predicted examples using weight vector- 57  :  15
+Distinct weight vector- 58  :  [-2.9410119  -1.3502585  -1.65760056 -0.8672401 ]
+Correctly predicted examples using weight vector- 58  :  31
+Distinct weight vector- 59  :  [-2.7622619  -0.8722585  -2.17122056 -1.1908601 ]
+Correctly predicted examples using weight vector- 59  :  36
+Distinct weight vector- 60  :  [-2.7246249  -0.9546165  -2.09267756 -1.1163361 ]
+Correctly predicted examples using weight vector- 60  :  2
+Distinct weight vector- 61  :  [-3.1132049  -2.2392265  -0.81310756 -1.4298661 ]
+Correctly predicted examples using weight vector- 61  :  4
+Distinct weight vector- 62  :  [-3.3089249  -1.7276965  -1.67437756 -1.2868961 ]
 Correctly predicted examples using weight vector- 62  :  1
-Distinct weight vector- 63  :  [-2.63258105 -1.5923385  -1.7295999  -0.3660707 ]
-Correctly predicted examples using weight vector- 63  :  9
-Distinct weight vector- 64  :  [-2.53141105 -1.5021185  -1.9646599  -0.3233567 ]
-Correctly predicted examples using weight vector- 64  :  159
-Distinct weight vector- 65  :  [-2.38245105 -1.1592385  -2.3677499  -0.4659467 ]
-Correctly predicted examples using weight vector- 65  :  7
-Distinct weight vector- 66  :  [-2.63591105 -1.2366305  -2.0317299  -0.4657757 ]
-Correctly predicted examples using weight vector- 66  :  1
-Distinct weight vector- 67  :  [-2.93089105 -2.0639305  -1.0052699  -0.3494857 ]
-Correctly predicted examples using weight vector- 67  :  16
-Distinct weight vector- 68  :  [-2.75758105 -1.6684905  -1.4793899  -0.5996557 ]
-Correctly predicted examples using weight vector- 68  :  4
-Distinct weight vector- 69  :  [-2.70578105 -1.6426255  -1.5634749  -0.5035377 ]
-Correctly predicted examples using weight vector- 69  :  37
-Distinct weight vector- 70  :  [-2.72307705 -1.7607855  -1.4252949  -0.4301777 ]
-Correctly predicted examples using weight vector- 70  :  15
-Distinct weight vector- 71  :  [-2.54432705 -1.2827855  -1.9389149  -0.7537977 ]
-Correctly predicted examples using weight vector- 71  :  17
-Distinct weight vector- 72  :  [-2.96542705 -2.5301455  -0.4418749  -0.8926377 ]
-Correctly predicted examples using weight vector- 72  :  13
-Distinct weight vector- 73  :  [-3.09209705 -2.2483155  -0.6844749  -1.0812577 ]
-Correctly predicted examples using weight vector- 73  :  1
-Distinct weight vector- 74  :  [-3.09924735 -1.8741955  -1.1386249  -1.5065177 ]
-Correctly predicted examples using weight vector- 74  :  7
-Distinct weight vector- 75  :  [-3.04330835 -1.9052355  -1.1203179  -1.4618647 ]
-Correctly predicted examples using weight vector- 75  :  8
-Distinct weight vector- 76  :  [-2.84020835 -1.7200355  -1.4215279  -1.4615644 ]
-Correctly predicted examples using weight vector- 76  :  2
-Distinct weight vector- 77  :  [-2.89215835 -1.3937055  -1.7304779  -1.3630744 ]
-Correctly predicted examples using weight vector- 77  :  50
-Distinct weight vector- 78  :  [-2.88913645 -1.4988255  -1.5902379  -1.2857054 ]
-Correctly predicted examples using weight vector- 78  :  5
-Distinct weight vector- 79  :  [-2.85149945 -1.5811835  -1.5116949  -1.2111814 ]
-Correctly predicted examples using weight vector- 79  :  33
-Distinct weight vector- 80  :  [-2.79144945 -1.4812385  -1.7329549  -1.2014415 ]
-Correctly predicted examples using weight vector- 80  :  33
-Distinct weight vector- 81  :  [-2.86132845 -1.8189485  -1.3208449  -1.0510115 ]
-Correctly predicted examples using weight vector- 81  :  7
-Distinct weight vector- 82  :  [-2.76015845 -1.7287285  -1.5559049  -1.0082975 ]
-Correctly predicted examples using weight vector- 82  :  18
-Distinct weight vector- 83  :  [-2.62497845 -1.6227785  -1.7902749  -0.9682995 ]
-Correctly predicted examples using weight vector- 83  :  5
-Distinct weight vector- 84  :  [-2.46687845 -1.5358695  -2.0216549  -0.8858875 ]
-Correctly predicted examples using weight vector- 84  :  43
-Distinct weight vector- 85  :  [-2.45475245 -1.5135225  -2.0689819  -0.7888635 ]
-Correctly predicted examples using weight vector- 85  :  13
-Distinct weight vector- 86  :  [-2.454347  -1.4506175 -2.1331029 -0.7130465]
-Correctly predicted examples using weight vector- 86  :  5
-Distinct weight vector- 87  :  [-2.571017  -1.5929875 -1.8406929 -0.6469275]
+Distinct weight vector- 63  :  [-3.2025549  -1.3581265  -2.09031756 -1.4806861 ]
+Correctly predicted examples using weight vector- 63  :  7
+Distinct weight vector- 64  :  [-3.1904289  -1.3357795  -2.13764456 -1.3836621 ]
+Correctly predicted examples using weight vector- 64  :  24
+Distinct weight vector- 65  :  [-3.2561959  -1.6159595  -1.76649456 -1.2839231 ]
+Correctly predicted examples using weight vector- 65  :  6
+Distinct weight vector- 66  :  [-3.1111859  -1.2552895  -2.17206456 -1.4435831 ]
+Correctly predicted examples using weight vector- 66  :  4
+Distinct weight vector- 67  :  [-3.4713059  -1.9091795  -1.11972456 -1.4925501 ]
+Correctly predicted examples using weight vector- 67  :  9
+Distinct weight vector- 68  :  [-3.47090045 -1.8462745  -1.18384556 -1.4167331 ]
+Correctly predicted examples using weight vector- 68  :  3
+Distinct weight vector- 69  :  [-3.47102897 -1.8324115  -1.20349656 -1.41591556]
+Correctly predicted examples using weight vector- 69  :  24
+Distinct weight vector- 70  :  [-3.52297897 -1.5060815  -1.51244656 -1.31742556]
+Correctly predicted examples using weight vector- 70  :  2
+Distinct weight vector- 71  :  [-3.25818897 -2.5198215  -1.37934656 -0.77035556]
+Correctly predicted examples using weight vector- 71  :  7
+Distinct weight vector- 72  :  [-3.34759797 -2.1999115  -1.56153656 -1.06487556]
+Correctly predicted examples using weight vector- 72  :  9
+Distinct weight vector- 73  :  [-3.22679797 -1.7924715  -2.03788656 -1.32616556]
+Correctly predicted examples using weight vector- 73  :  20
+Distinct weight vector- 74  :  [-3.07602797 -1.5965115  -2.34372656 -1.33840856]
+Correctly predicted examples using weight vector- 74  :  29
+Distinct weight vector- 75  :  [-3.20170797 -1.7438415  -2.05654656 -1.29375556]
+Correctly predicted examples using weight vector- 75  :  1
+Distinct weight vector- 76  :  [-3.07972797 -1.5340215  -2.37608656 -1.28091256]
+Correctly predicted examples using weight vector- 76  :  47
+Distinct weight vector- 77  :  [-3.46045797 -2.3437315  -1.35836656 -1.21582856]
+Correctly predicted examples using weight vector- 77  :  2
+Distinct weight vector- 78  :  [-3.32527797 -2.2377815  -1.59273656 -1.17583056]
+Correctly predicted examples using weight vector- 78  :  11
+Distinct weight vector- 79  :  [-3.12350797 -2.0579615  -1.88854656 -1.15484056]
+Correctly predicted examples using weight vector- 79  :  7
+Distinct weight vector- 80  :  [-3.02156797 -1.9476715  -2.11854656 -1.09544556]
+Correctly predicted examples using weight vector- 80  :  1
+Distinct weight vector- 81  :  [-2.99913597 -1.9998185  -2.15893256 -0.97527556]
+Correctly predicted examples using weight vector- 81  :  5
+Distinct weight vector- 82  :  [-2.86730597 -1.8096485  -2.49004256 -0.96876846]
+Correctly predicted examples using weight vector- 82  :  9
+Distinct weight vector- 83  :  [-3.00698597 -2.7766285  -1.54352256 -1.00364046]
+Correctly predicted examples using weight vector- 83  :  13
+Distinct weight vector- 84  :  [-2.93649597 -2.7594545  -1.72211256 -0.96752146]
+Correctly predicted examples using weight vector- 84  :  1
+Distinct weight vector- 85  :  [-3.55652597 -1.8913945  -1.72119912 -1.33782146]
+Correctly predicted examples using weight vector- 85  :  24
+Distinct weight vector- 86  :  [-3.53213197 -1.7440645  -1.86311912 -1.39635646]
+Correctly predicted examples using weight vector- 86  :  30
+Distinct weight vector- 87  :  [-3.60201097 -2.0817745  -1.45100912 -1.24592646]
 Correctly predicted examples using weight vector- 87  :  5
-Distinct weight vector- 88  :  [-2.727227  -1.8141975 -1.4147829 -0.6189555]
-Correctly predicted examples using weight vector- 88  :  2
-Distinct weight vector- 89  :  [-2.675427  -1.7883325 -1.4988679 -0.5228375]
-Correctly predicted examples using weight vector- 89  :  9
-Distinct weight vector- 90  :  [-2.543597  -1.5981625 -1.8299779 -0.5163304]
-Correctly predicted examples using weight vector- 90  :  27
-Distinct weight vector- 91  :  [-2.609605  -1.9207625 -1.4493979 -0.3979704]
-Correctly predicted examples using weight vector- 91  :  13
-Distinct weight vector- 92  :  [-2.6029921 -1.6716225 -1.7434079 -0.4601264]
-Correctly predicted examples using weight vector- 92  :  10
-Distinct weight vector- 93  :  [-2.4810121 -1.4618025 -2.0629479 -0.4472834]
-Correctly predicted examples using weight vector- 93  :  19
-Distinct weight vector- 94  :  [-2.8168321 -2.1858425 -0.9187579 -0.5043964]
-Correctly predicted examples using weight vector- 94  :  33
-Distinct weight vector- 95  :  [-2.7264251 -1.8487625 -1.3686279 -0.8740464]
-Correctly predicted examples using weight vector- 95  :  5
-Distinct weight vector- 96  :  [-2.7049941 -1.9182915 -1.2809169 -0.8443934]
-Correctly predicted examples using weight vector- 96  :  8
-Distinct weight vector- 97  :  [-2.4658241 -1.4626415 -1.7797969 -1.1342634]
+Distinct weight vector- 88  :  [-3.65395797 -1.7554445  -1.75995912 -1.14743446]
+Correctly predicted examples using weight vector- 88  :  19
+Distinct weight vector- 89  :  [-3.47520797 -1.2774445  -2.27357912 -1.47105446]
+Correctly predicted examples using weight vector- 89  :  28
+Distinct weight vector- 90  :  [-3.53789197 -1.9075445  -1.79514912 -1.36045446]
+Correctly predicted examples using weight vector- 90  :  2
+Distinct weight vector- 91  :  [-3.50025497 -1.9899025  -1.71660612 -1.28593046]
+Correctly predicted examples using weight vector- 91  :  2
+Distinct weight vector- 92  :  [-3.50278637 -2.0072855  -1.72794512 -1.16395046]
+Correctly predicted examples using weight vector- 92  :  21
+Distinct weight vector- 93  :  [-3.44655437 -1.9071355  -1.95520512 -1.16455532]
+Correctly predicted examples using weight vector- 93  :  9
+Distinct weight vector- 94  :  [-3.39475437 -1.8812705  -2.03929012 -1.06843732]
+Correctly predicted examples using weight vector- 94  :  50
+Distinct weight vector- 95  :  [-3.19298437 -1.7014505  -2.33510012 -1.04744732]
+Correctly predicted examples using weight vector- 95  :  9
+Distinct weight vector- 96  :  [-3.50164437 -2.3650705  -1.28105012 -1.13662932]
+Correctly predicted examples using weight vector- 96  :  3
+Distinct weight vector- 97  :  [-3.40493637 -1.9808105  -1.77419012 -1.54985932]
 Correctly predicted examples using weight vector- 97  :  3
-Distinct weight vector- 98  :  [-2.3150541 -1.2666815 -2.0856369 -1.1465064]
-Correctly predicted examples using weight vector- 98  :  36
-Distinct weight vector- 99  :  [-2.4969241 -2.1703415 -1.1840169 -1.1587494]
-Correctly predicted examples using weight vector- 99  :  4
-Distinct weight vector- 100  :  [-2.4725301 -2.0230115 -1.3259369 -1.2172844]
-Correctly predicted examples using weight vector- 100  :  30
-Distinct weight vector- 101  :  [-2.4750615 -2.0403945 -1.3372759 -1.0953044]
-Correctly predicted examples using weight vector- 101  :  26
-Distinct weight vector- 102  :  [-2.6779115 -1.6557145 -1.4007109 -1.2128044]
-Correctly predicted examples using weight vector- 102  :  18
-Distinct weight vector- 103  :  [-2.4761415 -1.4758945 -1.6965209 -1.1918144]
-Correctly predicted examples using weight vector- 103  :  4
-Distinct weight vector- 104  :  [-2.3171015 -1.2546845 -2.0083509 -1.2035394]
-Correctly predicted examples using weight vector- 104  :  2
-Distinct weight vector- 105  :  [-2.4920015 -1.8878845 -1.3984809 -1.1892734]
-Correctly predicted examples using weight vector- 105  :  1
-Distinct weight vector- 106  :  [-2.4319515 -1.6946145 -1.7273609 -1.2216884]
-Correctly predicted examples using weight vector- 106  :  2
-Distinct weight vector- 107  :  [-2.4436675 -1.6341925 -1.7659479 -1.2275949]
-Correctly predicted examples using weight vector- 107  :  33
-Distinct weight vector- 108  :  [-2.4609635 -1.7523525 -1.6277679 -1.1542349]
-Correctly predicted examples using weight vector- 108  :  15
-Distinct weight vector- 109  :  [-2.3554435 -1.6337825 -1.8918779 -1.1432019]
-Correctly predicted examples using weight vector- 109  :  51
-Distinct weight vector- 110  :  [-2.3211035 -1.6213675 -1.9206109 -1.1285479]
-Correctly predicted examples using weight vector- 110  :  15
-Distinct weight vector- 111  :  [-2.4813935 -1.6602705 -1.7586109 -0.9375179]
-Correctly predicted examples using weight vector- 111  :  2
-Distinct weight vector- 112  :  [-2.3363835 -1.2996005 -2.1641809 -1.0971779]
-Correctly predicted examples using weight vector- 112  :  18
-Distinct weight vector- 113  :  [-2.3577775 -1.3678875 -2.1545277 -0.9775279]
-Correctly predicted examples using weight vector- 113  :  12
-Distinct weight vector- 114  :  [-2.5057775 -2.4203275 -1.1627677 -1.0277879]
-Correctly predicted examples using weight vector- 114  :  15
-Distinct weight vector- 115  :  [-2.4518415 -2.0308875 -1.6444277 -1.4619679]
-Correctly predicted examples using weight vector- 115  :  27
-Distinct weight vector- 116  :  [-2.4294095 -2.0830345 -1.6848137 -1.3417979]
-Correctly predicted examples using weight vector- 116  :  78
-Distinct weight vector- 117  :  [-2.2560995 -1.6875945 -2.1589337 -1.5919679]
-Correctly predicted examples using weight vector- 117  :  27
-Distinct weight vector- 118  :  [-2.1541595 -1.5773045 -2.3889337 -1.5325729]
-Correctly predicted examples using weight vector- 118  :  15
-Distinct weight vector- 119  :  [-2.4083495 -1.6431085 -2.1205137 -1.4130529]
-Correctly predicted examples using weight vector- 119  :  3
-Distinct weight vector- 120  :  [-2.7681995 -3.0090385 -0.3599937 -1.6623229]
-Correctly predicted examples using weight vector- 120  :  5
-Distinct weight vector- 121  :  [-2.7571675 -2.8116285 -0.6966737 -1.7275819]
-Correctly predicted examples using weight vector- 121  :  2
-Distinct weight vector- 122  :  [-2.8174215 -2.6392585 -0.9116837 -1.8046089]
-Correctly predicted examples using weight vector- 122  :  8
-Distinct weight vector- 123  :  [-3.0179315 -1.9528785 -1.7248837 -1.7805989]
-Correctly predicted examples using weight vector- 123  :  6
-Distinct weight vector- 124  :  [-2.8499415 -1.5321985 -2.1788637 -2.0199089]
-Correctly predicted examples using weight vector- 124  :  21
-Distinct weight vector- 125  :  [-2.9922715 -1.6311105 -1.9430037 -1.9804279]
-Correctly predicted examples using weight vector- 125  :  7
-Distinct weight vector- 126  :  [-3.1454915 -2.1407705 -1.2752137 -1.9629299]
-Correctly predicted examples using weight vector- 126  :  25
-Distinct weight vector- 127  :  [-3.1480229 -2.1581535 -1.2865527 -1.8409499]
-Correctly predicted examples using weight vector- 127  :  11
-Distinct weight vector- 128  :  [-3.1136829 -2.1457385 -1.3152857 -1.8262959]
-Correctly predicted examples using weight vector- 128  :  6
-Distinct weight vector- 129  :  [-3.0396159 -1.9727485 -1.6349157 -1.8408659]
-Correctly predicted examples using weight vector- 129  :  10
-Distinct weight vector- 130  :  [-2.7748259 -2.9864885 -1.5018157 -1.2937959]
-Correctly predicted examples using weight vector- 130  :  3
-Distinct weight vector- 131  :  [-2.7626999 -2.9641415 -1.5491427 -1.1967719]
-Correctly predicted examples using weight vector- 131  :  1
-Distinct weight vector- 132  :  [-3.4669099 -2.0441415 -1.5232097 -1.6650919]
-Correctly predicted examples using weight vector- 132  :  4
-Distinct weight vector- 133  :  [-3.3882199 -3.0007715 -1.1445397 -0.9147519]
-Correctly predicted examples using weight vector- 133  :  6
-Distinct weight vector- 134  :  [-3.4211439 -2.5552515 -1.6017197 -0.8158719]
-Correctly predicted examples using weight vector- 134  :  1
-Distinct weight vector- 135  :  [-3.414531  -2.3061115 -1.8957297 -0.8780279]
-Correctly predicted examples using weight vector- 135  :  11
-Distinct weight vector- 136  :  [-3.497132  -2.0100015 -2.0243697 -1.0244979]
-Correctly predicted examples using weight vector- 136  :  23
-Distinct weight vector- 137  :  [-3.567011  -2.3477115 -1.6122597 -0.8740679]
-Correctly predicted examples using weight vector- 137  :  21
-Distinct weight vector- 138  :  [-3.608976  -2.0567715 -1.7908497 -1.0947579]
-Correctly predicted examples using weight vector- 138  :  1
-Distinct weight vector- 139  :  [-3.473796  -1.9508215 -2.0252197 -1.0547599]
-Correctly predicted examples using weight vector- 139  :  1
-Distinct weight vector- 140  :  [-3.272026  -1.7710015 -2.3210297 -1.0337699]
-Correctly predicted examples using weight vector- 140  :  21
-Distinct weight vector- 141  :  [-3.622626  -3.0276715 -0.8049697 -1.1089859]
-Correctly predicted examples using weight vector- 141  :  10
-Distinct weight vector- 142  :  [-3.68288   -2.8553015 -1.0199797 -1.1860129]
-Correctly predicted examples using weight vector- 142  :  14
-Distinct weight vector- 143  :  [-3.68247455 -2.7923965  -1.0841007  -1.1101959 ]
-Correctly predicted examples using weight vector- 143  :  1
-Distinct weight vector- 144  :  [-3.67144255 -2.5949865  -1.4207807  -1.1754549 ]
-Correctly predicted examples using weight vector- 144  :  5
-Distinct weight vector- 145  :  [-3.49813255 -2.1995465  -1.8949007  -1.4256249 ]
-Correctly predicted examples using weight vector- 145  :  2
-Distinct weight vector- 146  :  [-3.53105255 -1.7540265  -2.3520807  -1.3267449 ]
-Correctly predicted examples using weight vector- 146  :  6
-Distinct weight vector- 147  :  [-3.89090255 -3.1199565  -0.5915607  -1.5760149 ]
-Correctly predicted examples using weight vector- 147  :  22
-Distinct weight vector- 148  :  [-3.76811255 -2.7168665  -1.0559107  -1.9672649 ]
-Correctly predicted examples using weight vector- 148  :  7
-Distinct weight vector- 149  :  [-3.74668155 -2.7863955  -0.9681997  -1.9376119 ]
-Correctly predicted examples using weight vector- 149  :  4
-Distinct weight vector- 150  :  [-3.70904455 -2.8687535  -0.8896567  -1.8630879 ]
-Correctly predicted examples using weight vector- 150  :  33
-Distinct weight vector- 151  :  [-3.69745255 -2.5465635  -1.2326767  -2.1476579 ]
-Correctly predicted examples using weight vector- 151  :  11
-Distinct weight vector- 152  :  [-3.52946255 -2.1258835  -1.6866567  -2.3869679 ]
-Correctly predicted examples using weight vector- 152  :  10
-Distinct weight vector- 153  :  [-3.68975255 -2.1647865  -1.5246567  -2.1959379 ]
-Correctly predicted examples using weight vector- 153  :  34
-Distinct weight vector- 154  :  [-3.74170255 -1.8384565  -1.8336067  -2.0974479 ]
-Correctly predicted examples using weight vector- 154  :  31
-Distinct weight vector- 155  :  [-3.79364955 -1.5121265  -2.1425567  -1.9989559 ]
-Correctly predicted examples using weight vector- 155  :  22
-Distinct weight vector- 156  :  [-3.63554955 -1.4252175  -2.3739367  -1.9165439 ]
-Correctly predicted examples using weight vector- 156  :  11
-Distinct weight vector- 157  :  [-3.80374955 -2.1064275  -1.6599567  -1.7833139 ]
-Correctly predicted examples using weight vector- 157  :  1
-Distinct weight vector- 158  :  [-3.74751755 -2.0062775  -1.8872167  -1.78391876]
-Correctly predicted examples using weight vector- 158  :  11
-Distinct weight vector- 159  :  [-3.74449565 -2.1113975  -1.7469767  -1.70654976]
-Correctly predicted examples using weight vector- 159  :  7
-Distinct weight vector- 160  :  [-3.63812565 -1.7418275  -2.1629167  -1.90033976]
-Correctly predicted examples using weight vector- 160  :  11
-Distinct weight vector- 161  :  [-3.39895565 -1.2861775  -2.6617967  -2.19020976]
-Correctly predicted examples using weight vector- 161  :  13
-Distinct weight vector- 162  :  [-3.55772565 -1.9468975  -2.0815767  -2.15861676]
-Correctly predicted examples using weight vector- 162  :  5
-Distinct weight vector- 163  :  [-3.42772565 -2.9736775  -1.7862767  -1.57223676]
-Correctly predicted examples using weight vector- 163  :  4
-Distinct weight vector- 164  :  [-3.35723565 -2.9565035  -1.9648667  -1.53611776]
-Correctly predicted examples using weight vector- 164  :  13
-Distinct weight vector- 165  :  [-3.33480365 -3.0086505  -2.0052527  -1.41594776]
-Correctly predicted examples using weight vector- 165  :  10
-Distinct weight vector- 166  :  [-3.57580365 -2.6343205  -2.0454677  -1.54547776]
-Correctly predicted examples using weight vector- 166  :  10
-Distinct weight vector- 167  :  [-3.35637365 -2.1792905  -2.5430677  -1.81801776]
-Correctly predicted examples using weight vector- 167  :  12
-Distinct weight vector- 168  :  [-3.25520365 -2.0890705  -2.7781277  -1.77530376]
-Correctly predicted examples using weight vector- 168  :  7
-Distinct weight vector- 169  :  [-3.32727165 -2.7649005  -2.1940477  -1.71293476]
-Correctly predicted examples using weight vector- 169  :  7
-Distinct weight vector- 170  :  [-3.17650165 -2.5689405  -2.4998877  -1.72517776]
-Correctly predicted examples using weight vector- 170  :  10
-Distinct weight vector- 171  :  [-3.29317165 -2.7113105  -2.2074777  -1.65905876]
-Correctly predicted examples using weight vector- 171  :  30
-Distinct weight vector- 172  :  [-3.30488765 -2.6508885  -2.2460647  -1.66496526]
-Correctly predicted examples using weight vector- 172  :  11
-Distinct weight vector- 173  :  [-3.20294765 -2.5405985  -2.4760647  -1.60557026]
-Correctly predicted examples using weight vector- 173  :  2
-Distinct weight vector- 174  :  [-3.04390765 -2.3193885  -2.7878947  -1.61729526]
-Correctly predicted examples using weight vector- 174  :  7
-Distinct weight vector- 175  :  [-3.10991565 -2.6419885  -2.4073147  -1.49893526]
-Correctly predicted examples using weight vector- 175  :  33
-Distinct weight vector- 176  :  [-3.24651565 -2.6235725  -2.3167757  -1.34087526]
-Correctly predicted examples using weight vector- 176  :  76
-Distinct weight vector- 177  :  [-3.26381165 -2.7417325  -2.1785957  -1.26751526]
-Correctly predicted examples using weight vector- 177  :  46
-Distinct weight vector- 178  :  [-3.14183165 -2.5319125  -2.4981357  -1.25467226]
-Correctly predicted examples using weight vector- 178  :  2
-Distinct weight vector- 179  :  [-2.96308165 -2.0539125  -3.0117557  -1.57829226]
-Correctly predicted examples using weight vector- 179  :  65
-Distinct weight vector- 180  :  [-3.23391165 -2.7365725  -2.2583657  -1.51928526]
-Correctly predicted examples using weight vector- 180  :  17
-Distinct weight vector- 181  :  [-3.18211165 -2.7107075  -2.3424507  -1.42316726]
-Correctly predicted examples using weight vector- 181  :  24
-Distinct weight vector- 182  :  [-3.12617265 -2.7417475  -2.3241437  -1.37851426]
-Correctly predicted examples using weight vector- 182  :  13
-Distinct weight vector- 183  :  [-2.92307265 -2.5565475  -2.6253537  -1.37821396]
-Correctly predicted examples using weight vector- 183  :  2
-Distinct weight vector- 184  :  [-2.77806265 -2.1958775  -3.0309237  -1.53787396]
-Correctly predicted examples using weight vector- 184  :  2
-Distinct weight vector- 185  :  [-3.13818265 -2.8497675  -1.9785837  -1.58684096]
-Correctly predicted examples using weight vector- 185  :  34
-Distinct weight vector- 186  :  [-3.13516075 -2.9548875  -1.8383437  -1.50947196]
-Correctly predicted examples using weight vector- 186  :  63
-Distinct weight vector- 187  :  [-3.27176075 -2.9364715  -1.7478047  -1.35141196]
-Correctly predicted examples using weight vector- 187  :  21
-Distinct weight vector- 188  :  [-3.32257675 -2.6496715  -1.9288847  -1.57753196]
-Correctly predicted examples using weight vector- 188  :  26
-Distinct weight vector- 189  :  [-3.37452375 -2.3233415  -2.2378347  -1.47903996]
-Correctly predicted examples using weight vector- 189  :  6
-Distinct weight vector- 190  :  [-3.25254375 -2.1135215  -2.5573747  -1.46619696]
-Correctly predicted examples using weight vector- 190  :  16
-Distinct weight vector- 191  :  [-3.47879375 -2.123455   -2.2761047  -1.41753496]
-Correctly predicted examples using weight vector- 191  :  24
-Distinct weight vector- 192  :  [-3.42699375 -2.09759    -2.3601897  -1.32141696]
-Correctly predicted examples using weight vector- 192  :  20
-Distinct weight vector- 193  :  [-3.35256575 -2.47482    -2.1988797  -1.16387696]
-Correctly predicted examples using weight vector- 193  :  22
-Distinct weight vector- 194  :  [-3.41833275 -2.755      -1.8277297  -1.06413796]
-Correctly predicted examples using weight vector- 194  :  49
-Distinct weight vector- 195  :  [-3.34457275 -2.26975    -2.3075897  -1.63072796]
-Correctly predicted examples using weight vector- 195  :  1
-Distinct weight vector- 196  :  [-3.26588275 -3.22638    -1.9289197  -0.88038796]
-Correctly predicted examples using weight vector- 196  :  12
-Distinct weight vector- 197  :  [-3.47117275 -2.84253    -2.0084637  -1.00176796]
-Correctly predicted examples using weight vector- 197  :  25
-Distinct weight vector- 198  :  [-3.72997275 -2.45599    -2.0418237  -1.12973796]
-Correctly predicted examples using weight vector- 198  :  15
-Distinct weight vector- 199  :  [-3.69233575 -2.538348   -1.9632807  -1.05521396]
-Correctly predicted examples using weight vector- 199  :  4
-Distinct weight vector- 200  :  [-3.77493675 -2.242238   -2.0919207  -1.20168396]
-Correctly predicted examples using weight vector- 200  :  4
-Distinct weight vector- 201  :  [-3.62992675 -1.881568   -2.4974907  -1.36134396]
-Correctly predicted examples using weight vector- 201  :  11
-Distinct weight vector- 202  :  [-3.69593475 -2.204168   -2.1169107  -1.24298396]
-Correctly predicted examples using weight vector- 202  :  21
-Distinct weight vector- 203  :  [-3.53689475 -1.982958   -2.4287407  -1.25470896]
-Correctly predicted examples using weight vector- 203  :  21
-Distinct weight vector- 204  :  [-3.50255475 -1.970543   -2.4574737  -1.24005496]
-Correctly predicted examples using weight vector- 204  :  28
-Distinct weight vector- 205  :  [-3.48112375 -2.040072   -2.3697627  -1.21040196]
-Correctly predicted examples using weight vector- 205  :  8
-Distinct weight vector- 206  :  [-3.46899775 -2.017725   -2.4170897  -1.11337796]
-Correctly predicted examples using weight vector- 206  :  55
-Distinct weight vector- 207  :  [-3.26589775 -1.832525   -2.7182997  -1.11307766]
-Correctly predicted examples using weight vector- 207  :  18
-Distinct weight vector- 208  :  [-3.33796575 -2.508355   -2.1342197  -1.05070866]
-Correctly predicted examples using weight vector- 208  :  4
-Distinct weight vector- 209  :  [-3.3375603  -2.44545    -2.1983407  -0.97489166]
+Distinct weight vector- 98  :  [-3.24589637 -1.7596005  -2.08602012 -1.56158432]
+Correctly predicted examples using weight vector- 98  :  6
+Distinct weight vector- 99  :  [-3.27093137 -2.6922205  -1.71729012 -0.93615432]
+Correctly predicted examples using weight vector- 99  :  1
+Distinct weight vector- 100  :  [-3.12016137 -2.4962605  -2.02313012 -0.94839732]
+Correctly predicted examples using weight vector- 100  :  22
+Distinct weight vector- 101  :  [-3.08582137 -2.4838455  -2.05186312 -0.93374332]
+Correctly predicted examples using weight vector- 101  :  30
+Distinct weight vector- 102  :  [-3.11874137 -2.0383255  -2.50904312 -0.83486332]
+Correctly predicted examples using weight vector- 102  :  4
+Distinct weight vector- 103  :  [-2.97373137 -1.6776555  -2.91461312 -0.99452332]
+Correctly predicted examples using weight vector- 103  :  14
+Distinct weight vector- 104  :  [-3.17439137 -2.3495555  -2.01299312 -0.98452482]
+Correctly predicted examples using weight vector- 104  :  6
+Distinct weight vector- 105  :  [-3.20731537 -1.9040355  -2.47017312 -0.88564482]
+Correctly predicted examples using weight vector- 105  :  8
+Distinct weight vector- 106  :  [-3.56647537 -2.5268855  -1.44628312 -1.00107482]
+Correctly predicted examples using weight vector- 106  :  12
+Distinct weight vector- 107  :  [-3.61729137 -2.2400855  -1.62736312 -1.22719482]
+Correctly predicted examples using weight vector- 107  :  7
+Distinct weight vector- 108  :  [-3.51092137 -1.8705155  -2.04330312 -1.42098482]
+Correctly predicted examples using weight vector- 108  :  38
+Distinct weight vector- 109  :  [-3.24613137 -2.8842555  -1.91020312 -0.87391482]
+Correctly predicted examples using weight vector- 109  :  1
+Distinct weight vector- 110  :  [-3.95034137 -1.9642555  -1.88427012 -1.34223482]
+Correctly predicted examples using weight vector- 110  :  3
+Distinct weight vector- 111  :  [-3.77703137 -1.5688155  -2.35839012 -1.59240482]
+Correctly predicted examples using weight vector- 111  :  50
+Distinct weight vector- 112  :  [-4.07201137 -2.3961155  -1.33193012 -1.47611482]
+Correctly predicted examples using weight vector- 112  :  5
+Distinct weight vector- 113  :  [-3.96649137 -2.2775455  -1.59604012 -1.46508182]
+Correctly predicted examples using weight vector- 113  :  21
+Distinct weight vector- 114  :  [-3.96346947 -2.3826655  -1.45580012 -1.38771282]
+Correctly predicted examples using weight vector- 114  :  6
+Distinct weight vector- 115  :  [-3.95685657 -2.1335255  -1.74981012 -1.44986882]
+Correctly predicted examples using weight vector- 115  :  21
+Distinct weight vector- 116  :  [-3.85568657 -2.0433055  -1.98487012 -1.40715482]
+Correctly predicted examples using weight vector- 116  :  25
+Distinct weight vector- 117  :  [-3.65258657 -1.8581055  -2.28608012 -1.40685452]
+Correctly predicted examples using weight vector- 117  :  24
+Distinct weight vector- 118  :  [-3.53060657 -1.6482855  -2.60562012 -1.39401152]
+Correctly predicted examples using weight vector- 118  :  12
+Distinct weight vector- 119  :  [-3.71247657 -2.5519455  -1.70400012 -1.40625452]
+Correctly predicted examples using weight vector- 119  :  5
+Distinct weight vector- 120  :  [-3.59167657 -2.1445055  -2.18035012 -1.66754452]
+Correctly predicted examples using weight vector- 120  :  3
+Distinct weight vector- 121  :  [-3.72827657 -2.1260895  -2.08981112 -1.50948452]
+Correctly predicted examples using weight vector- 121  :  11
+Distinct weight vector- 122  :  [-3.74557257 -2.2442495  -1.95163112 -1.43612452]
+Correctly predicted examples using weight vector- 122  :  55
+Distinct weight vector- 123  :  [-3.72314057 -2.2963965  -1.99201712 -1.31595452]
+Correctly predicted examples using weight vector- 123  :  2
+Distinct weight vector- 124  :  [-3.77509057 -1.9700665  -2.30096712 -1.21746452]
+Correctly predicted examples using weight vector- 124  :  22
+Distinct weight vector- 125  :  [-3.75365957 -2.0395955  -2.21325612 -1.18781152]
+Correctly predicted examples using weight vector- 125  :  27
+Distinct weight vector- 126  :  [-3.69772057 -2.0706355  -2.19494912 -1.14315852]
+Correctly predicted examples using weight vector- 126  :  3
+Distinct weight vector- 127  :  [-3.59578057 -1.9603455  -2.42494912 -1.08376352]
+Correctly predicted examples using weight vector- 127  :  4
+Distinct weight vector- 128  :  [-3.44682057 -1.6174655  -2.82803912 -1.22635352]
+Correctly predicted examples using weight vector- 128  :  61
+Distinct weight vector- 129  :  [-3.44641512 -1.5545605  -2.89216012 -1.15053652]
+Correctly predicted examples using weight vector- 129  :  5
+Distinct weight vector- 130  :  [-3.51848312 -2.2303905  -2.30808012 -1.08816752]
+Correctly predicted examples using weight vector- 130  :  8
+Distinct weight vector- 131  :  [-3.27931312 -1.7747405  -2.80696012 -1.37803752]
+Correctly predicted examples using weight vector- 131  :  41
+Distinct weight vector- 132  :  [-3.20062312 -2.7313705  -2.42829012 -0.62769752]
+Correctly predicted examples using weight vector- 132  :  1
+Distinct weight vector- 133  :  [-3.04252312 -2.6444615  -2.65967012 -0.54528552]
+Correctly predicted examples using weight vector- 133  :  1
+Distinct weight vector- 134  :  [-3.46501312 -2.0174715  -2.64384812 -1.09985552]
+Correctly predicted examples using weight vector- 134  :  31
+Distinct weight vector- 135  :  [-3.32983312 -1.9115215  -2.87821812 -1.05985752]
+Correctly predicted examples using weight vector- 135  :  3
+Distinct weight vector- 136  :  [-3.31770712 -1.8891745  -2.92554512 -0.96283352]
+Correctly predicted examples using weight vector- 136  :  6
+Distinct weight vector- 137  :  [-3.76631712 -3.2180645  -1.19467512 -1.28477352]
+Correctly predicted examples using weight vector- 137  :  9
+Distinct weight vector- 138  :  [-4.02511712 -2.8315245  -1.22803512 -1.41274352]
+Correctly predicted examples using weight vector- 138  :  29
+Distinct weight vector- 139  :  [-3.91874712 -2.4619545  -1.64397512 -1.60653352]
+Correctly predicted examples using weight vector- 139  :  23
+Distinct weight vector- 140  :  [-3.77373712 -2.1012845  -2.04954512 -1.76619352]
+Correctly predicted examples using weight vector- 140  :  46
+Distinct weight vector- 141  :  [-3.62477712 -1.7584045  -2.45263512 -1.90878352]
+Correctly predicted examples using weight vector- 141  :  16
+Distinct weight vector- 142  :  [-3.52283712 -1.6481145  -2.68263512 -1.84938852]
+Correctly predicted examples using weight vector- 142  :  3
+Distinct weight vector- 143  :  [-3.80674712 -2.3111145  -1.63414512 -1.89150152]
+Correctly predicted examples using weight vector- 143  :  3
+Distinct weight vector- 144  :  [-3.60497712 -2.1312945  -1.92995512 -1.87051152]
+Correctly predicted examples using weight vector- 144  :  4
+Distinct weight vector- 145  :  [-3.53448712 -2.1141205  -2.10854512 -1.83439252]
+Correctly predicted examples using weight vector- 145  :  3
+Distinct weight vector- 146  :  [-3.58643412 -1.7877905  -2.41749512 -1.73590052]
+Correctly predicted examples using weight vector- 146  :  4
+Distinct weight vector- 147  :  [-3.71211412 -1.9351205  -2.13031512 -1.69124752]
+Correctly predicted examples using weight vector- 147  :  15
+Distinct weight vector- 148  :  [-3.44732412 -2.9488605  -1.99721512 -1.14417752]
+Correctly predicted examples using weight vector- 148  :  39
+Distinct weight vector- 149  :  [-3.39138512 -2.9799005  -1.97890812 -1.09952452]
+Correctly predicted examples using weight vector- 149  :  24
+Distinct weight vector- 150  :  [-3.39391652 -2.9972835  -1.99024712 -0.97754452]
+Correctly predicted examples using weight vector- 150  :  41
+Distinct weight vector- 151  :  [-3.48332552 -2.6773735  -2.17243712 -1.27206452]
+Correctly predicted examples using weight vector- 151  :  1
+Distinct weight vector- 152  :  [-3.38215552 -2.5871535  -2.40749712 -1.22935052]
+Correctly predicted examples using weight vector- 152  :  13
+Distinct weight vector- 153  :  [-3.58500552 -2.2024735  -2.47093212 -1.34685052]
+Correctly predicted examples using weight vector- 153  :  21
+Distinct weight vector- 154  :  [-3.46302552 -1.9926535  -2.79047212 -1.33400752]
+Correctly predicted examples using weight vector- 154  :  32
+Distinct weight vector- 155  :  [-3.44059352 -2.0448005  -2.83085812 -1.21383752]
+Correctly predicted examples using weight vector- 155  :  1
+Distinct weight vector- 156  :  [-3.64025352 -2.9948105  -1.86265812 -1.22672652]
+Correctly predicted examples using weight vector- 156  :  5
+Distinct weight vector- 157  :  [-3.68953452 -2.6887605  -2.04621812 -1.51012652]
+Correctly predicted examples using weight vector- 157  :  26
+Distinct weight vector- 158  :  [-3.63773452 -2.6628955  -2.13030312 -1.41400852]
+Correctly predicted examples using weight vector- 158  :  45
+Distinct weight vector- 159  :  [-3.61334052 -2.5155655  -2.27222312 -1.47254352]
+Correctly predicted examples using weight vector- 159  :  21
+Distinct weight vector- 160  :  [-3.63063652 -2.6337255  -2.13404312 -1.39918352]
+Correctly predicted examples using weight vector- 160  :  27
+Distinct weight vector- 161  :  [-3.56616452 -2.1731055  -2.96874312 -1.12819352]
+Correctly predicted examples using weight vector- 161  :  14
+Distinct weight vector- 162  :  [-3.86114452 -3.0004055  -1.94228312 -1.01190352]
+Correctly predicted examples using weight vector- 162  :  47
+Distinct weight vector- 163  :  [-3.70210452 -2.7791955  -2.25411312 -1.02362852]
+Correctly predicted examples using weight vector- 163  :  2
+Distinct weight vector- 164  :  [-3.54400452 -2.6922865  -2.48549312 -0.94121652]
+Correctly predicted examples using weight vector- 164  :  4
+Distinct weight vector- 165  :  [-3.50966452 -2.6798715  -2.51422612 -0.92656252]
+Correctly predicted examples using weight vector- 165  :  34
+Distinct weight vector- 166  :  [-3.40414452 -2.5613015  -2.77833612 -0.91552952]
+Correctly predicted examples using weight vector- 166  :  36
+Distinct weight vector- 167  :  [-3.60480452 -3.2332015  -1.87671612 -0.90553102]
+Correctly predicted examples using weight vector- 167  :  26
+Distinct weight vector- 168  :  [-4.23844452 -2.3047215  -1.87528862 -1.58397102]
+Correctly predicted examples using weight vector- 168  :  4
+Distinct weight vector- 169  :  [-4.08767452 -2.1087615  -2.18112862 -1.59621402]
+Correctly predicted examples using weight vector- 169  :  9
+Distinct weight vector- 170  :  [-4.08726907 -2.0458565  -2.24524962 -1.52039702]
+Correctly predicted examples using weight vector- 170  :  9
+Distinct weight vector- 171  :  [-4.00857907 -3.0024865  -1.86657962 -0.77005702]
+Correctly predicted examples using weight vector- 171  :  51
+Distinct weight vector- 172  :  [-4.00196617 -2.7533465  -2.16058962 -0.83221302]
+Correctly predicted examples using weight vector- 172  :  18
+Distinct weight vector- 173  :  [-4.10308617 -2.4535065  -2.27722962 -0.99406302]
+Correctly predicted examples using weight vector- 173  :  6
+Distinct weight vector- 174  :  [-3.98228617 -2.0460665  -2.75357962 -1.25535302]
+Correctly predicted examples using weight vector- 174  :  24
+Distinct weight vector- 175  :  [-3.84710617 -1.9401165  -2.98794962 -1.21535502]
+Correctly predicted examples using weight vector- 175  :  4
+Distinct weight vector- 176  :  [-4.20626617 -2.5629665  -1.96405962 -1.33078502]
+Correctly predicted examples using weight vector- 176  :  2
+Distinct weight vector- 177  :  [-4.07443617 -2.3727965  -2.29516962 -1.32427792]
+Correctly predicted examples using weight vector- 177  :  9
+Distinct weight vector- 178  :  [-4.06231017 -2.3504495  -2.34249662 -1.22725392]
+Correctly predicted examples using weight vector- 178  :  27
+Distinct weight vector- 179  :  [-4.12831817 -2.6730495  -1.96191662 -1.10889392]
+Correctly predicted examples using weight vector- 179  :  3
+Distinct weight vector- 180  :  [-4.16123817 -2.2275295  -2.41909662 -1.01001392]
+Correctly predicted examples using weight vector- 180  :  4
+Distinct weight vector- 181  :  [-3.95813817 -2.0423295  -2.72030662 -1.00971362]
+Correctly predicted examples using weight vector- 181  :  27
+Distinct weight vector- 182  :  [-3.95511627 -2.1474495  -2.58006662 -0.93234462]
+Correctly predicted examples using weight vector- 182  :  15
+Distinct weight vector- 183  :  [-4.02499527 -2.4851595  -2.16795662 -0.78191462]
+Correctly predicted examples using weight vector- 183  :  4
+Distinct weight vector- 184  :  [-4.07694527 -2.1588295  -2.47690662 -0.68342462]
+Correctly predicted examples using weight vector- 184  :  1
+Distinct weight vector- 185  :  [-3.83777527 -1.7031795  -2.97578662 -0.97329462]
+Correctly predicted examples using weight vector- 185  :  2
+Distinct weight vector- 186  :  [-3.57298527 -2.7169195  -2.84268662 -0.42622462]
+Correctly predicted examples using weight vector- 186  :  5
+Distinct weight vector- 187  :  [-3.58470127 -2.6564975  -2.88127362 -0.43213112]
+Correctly predicted examples using weight vector- 187  :  4
+Distinct weight vector- 188  :  [-3.70137127 -2.7988675  -2.58886362 -0.36601212]
+Correctly predicted examples using weight vector- 188  :  3
+Distinct weight vector- 189  :  [-3.66373427 -2.8812255  -2.51032062 -0.29148812]
+Correctly predicted examples using weight vector- 189  :  15
+Distinct weight vector- 190  :  [-3.69665827 -2.4357055  -2.96750062 -0.19260812]
+Correctly predicted examples using weight vector- 190  :  5
+Distinct weight vector- 191  :  [-4.16003827 -3.7107955  -1.29584062 -0.51428812]
+Correctly predicted examples using weight vector- 191  :  4
+Distinct weight vector- 192  :  [-4.23060827 -3.1609855  -2.12952062 -0.22713812]
+Correctly predicted examples using weight vector- 192  :  5
+Distinct weight vector- 193  :  [-4.05185827 -2.6829855  -2.64314062 -0.55075812]
+Correctly predicted examples using weight vector- 193  :  5
+Distinct weight vector- 194  :  [-4.03042727 -2.7525145  -2.55542962 -0.52110512]
+Correctly predicted examples using weight vector- 194  :  7
+Distinct weight vector- 195  :  [-3.82732727 -2.5673145  -2.85663962 -0.52080482]
+Correctly predicted examples using weight vector- 195  :  31
+Distinct weight vector- 196  :  [-3.89720627 -2.9050245  -2.44452962 -0.37037482]
+Correctly predicted examples using weight vector- 196  :  4
+Distinct weight vector- 197  :  [-3.99832627 -2.6051845  -2.56116962 -0.53222482]
+Correctly predicted examples using weight vector- 197  :  10
+Distinct weight vector- 198  :  [-3.79655627 -2.4253645  -2.85697962 -0.51123482]
+Correctly predicted examples using weight vector- 198  :  4
+Distinct weight vector- 199  :  [-3.86232327 -2.7055445  -2.48582962 -0.41149582]
+Correctly predicted examples using weight vector- 199  :  23
+Distinct weight vector- 200  :  [-3.68901327 -2.3101045  -2.95994962 -0.66166582]
+Correctly predicted examples using weight vector- 200  :  9
+Distinct weight vector- 201  :  [-3.94274327 -3.0060045  -2.07940962 -0.50877582]
+Correctly predicted examples using weight vector- 201  :  34
+Distinct weight vector- 202  :  [-3.91834927 -2.8586745  -2.22132962 -0.56731082]
+Correctly predicted examples using weight vector- 202  :  8
+Distinct weight vector- 203  :  [-3.97029627 -2.5323445  -2.53027962 -0.46881882]
+Correctly predicted examples using weight vector- 203  :  17
+Distinct weight vector- 204  :  [-3.84457627 -2.0450345  -3.05888962 -1.05622882]
+Correctly predicted examples using weight vector- 204  :  4
+Distinct weight vector- 205  :  [-4.03866627 -2.9135145  -2.14338962 -0.96217982]
+Correctly predicted examples using weight vector- 205  :  2
+Distinct weight vector- 206  :  [-4.00102927 -2.9958725  -2.06484662 -0.88765582]
+Correctly predicted examples using weight vector- 206  :  1
+Distinct weight vector- 207  :  [-3.89985927 -2.9056525  -2.29990662 -0.84494182]
+Correctly predicted examples using weight vector- 207  :  9
+Distinct weight vector- 208  :  [-3.66068927 -2.4500025  -2.79878662 -1.13481182]
+Correctly predicted examples using weight vector- 208  :  1
+Distinct weight vector- 209  :  [-3.77735927 -2.5923725  -2.50637662 -1.06869282]
 Correctly predicted examples using weight vector- 209  :  11
-Distinct weight vector- 210  :  [-3.1794603  -2.358541   -2.4297207  -0.89247966]
-Correctly predicted examples using weight vector- 210  :  13
-Distinct weight vector- 211  :  [-3.0305003  -2.015661   -2.8328107  -1.03506966]
-Correctly predicted examples using weight vector- 211  :  6
-Distinct weight vector- 212  :  [-3.1077883  -2.760391   -2.1836107  -0.99895066]
+Distinct weight vector- 210  :  [-3.72142027 -2.6234125  -2.48806962 -1.02403982]
+Correctly predicted examples using weight vector- 210  :  17
+Distinct weight vector- 211  :  [-3.50199027 -2.1683825  -2.98566962 -1.29657982]
+Correctly predicted examples using weight vector- 211  :  19
+Distinct weight vector- 212  :  [-3.67019027 -2.8495925  -2.27168962 -1.16334982]
 Correctly predicted examples using weight vector- 212  :  1
-Distinct weight vector- 213  :  [-3.0066183  -2.670171   -2.4186707  -0.95623666]
-Correctly predicted examples using weight vector- 213  :  15
-Distinct weight vector- 214  :  [-2.8858183  -2.262731   -2.8950207  -1.21752666]
-Correctly predicted examples using weight vector- 214  :  1
-Distinct weight vector- 215  :  [-3.3713583  -2.853101   -1.7968407  -1.29972566]
-Correctly predicted examples using weight vector- 215  :  6
-Distinct weight vector- 216  :  [-3.3154193  -2.884141   -1.7785337  -1.25507266]
-Correctly predicted examples using weight vector- 216  :  11
-Distinct weight vector- 217  :  [-3.3271353  -2.823719   -1.8171207  -1.26097916]
-Correctly predicted examples using weight vector- 217  :  1
-Distinct weight vector- 218  :  [-3.2626633  -2.363099   -2.6518207  -0.98998916]
-Correctly predicted examples using weight vector- 218  :  2
-Distinct weight vector- 219  :  [-3.5984833  -3.087139   -1.5076307  -1.04710216]
-Correctly predicted examples using weight vector- 219  :  45
-Distinct weight vector- 220  :  [-3.6314073  -2.641619   -1.9648107  -0.94822216]
-Correctly predicted examples using weight vector- 220  :  13
-Distinct weight vector- 221  :  [-3.6070133  -2.494289   -2.1067307  -1.00675716]
-Correctly predicted examples using weight vector- 221  :  36
-Distinct weight vector- 222  :  [-3.3875833  -2.039259   -2.6043307  -1.27929716]
-Correctly predicted examples using weight vector- 222  :  18
-Distinct weight vector- 223  :  [-3.5132633  -2.186589   -2.3171507  -1.23464416]
-Correctly predicted examples using weight vector- 223  :  20
-Distinct weight vector- 224  :  [-3.4077433  -2.068019   -2.5812607  -1.22361116]
-Correctly predicted examples using weight vector- 224  :  31
-Distinct weight vector- 225  :  [-3.3058033  -1.957729   -2.8112607  -1.16421616]
-Correctly predicted examples using weight vector- 225  :  3
-Distinct weight vector- 226  :  [-3.4590233  -2.467389   -2.1434707  -1.14671816]
-Correctly predicted examples using weight vector- 226  :  3
-Distinct weight vector- 227  :  [-3.3082533  -2.271429   -2.4493107  -1.15896116]
-Correctly predicted examples using weight vector- 227  :  10
-Distinct weight vector- 228  :  [-3.4471233  -2.759159   -1.8015707  -1.12478216]
-Correctly predicted examples using weight vector- 228  :  5
-Distinct weight vector- 229  :  [-3.3908913  -2.659009   -2.0288307  -1.12538702]
-Correctly predicted examples using weight vector- 229  :  5
-Distinct weight vector- 230  :  [-3.1891213  -2.479189   -2.3246407  -1.10439702]
-Correctly predicted examples using weight vector- 230  :  9
-Distinct weight vector- 231  :  [-3.2064173  -2.597349   -2.1864607  -1.03103702]
-Correctly predicted examples using weight vector- 231  :  18
-Distinct weight vector- 232  :  [-3.2089487  -2.614732   -2.1977997  -0.90905702]
-Correctly predicted examples using weight vector- 232  :  90
-Distinct weight vector- 233  :  [-2.9697787  -2.159082   -2.6966797  -1.19892702]
-Correctly predicted examples using weight vector- 233  :  10
-Distinct weight vector- 234  :  [-2.8345987  -2.053132   -2.9310497  -1.15892902]
-Correctly predicted examples using weight vector- 234  :  8
-Distinct weight vector- 235  :  [-3.1295787  -2.880432   -1.9045897  -1.04263902]
-Correctly predicted examples using weight vector- 235  :  20
-Distinct weight vector- 236  :  [-3.0276387  -2.770142   -2.1345897  -0.98324402]
-Correctly predicted examples using weight vector- 236  :  11
-Distinct weight vector- 237  :  [-2.8695387  -2.683233   -2.3659697  -0.90083202]
-Correctly predicted examples using weight vector- 237  :  21
-Distinct weight vector- 238  :  [-2.8135997  -2.714273   -2.3476627  -0.85617902]
-Correctly predicted examples using weight vector- 238  :  4
-Distinct weight vector- 239  :  [-2.7124297  -2.624053   -2.5827227  -0.81346502]
-Correctly predicted examples using weight vector- 239  :  9
-Distinct weight vector- 240  :  [-2.8727197  -2.662956   -2.4207227  -0.62243502]
-Correctly predicted examples using weight vector- 240  :  7
-Distinct weight vector- 241  :  [-3.5235597  -1.785996   -2.3975317  -1.01613502]
-Correctly predicted examples using weight vector- 241  :  7
-Distinct weight vector- 242  :  [-3.3917297  -1.595826   -2.7286417  -1.00962792]
-Correctly predicted examples using weight vector- 242  :  6
-Distinct weight vector- 243  :  [-3.7737597  -2.901336   -1.0328117  -1.24014792]
-Correctly predicted examples using weight vector- 243  :  3
-Distinct weight vector- 244  :  [-3.6682397  -2.782766   -1.2969217  -1.22911492]
-Correctly predicted examples using weight vector- 244  :  6
-Distinct weight vector- 245  :  [-3.6174267  -2.734967   -1.4949617  -1.17140092]
-Correctly predicted examples using weight vector- 245  :  3
-Distinct weight vector- 246  :  [-3.7156197  -2.455407   -1.6183717  -1.32808092]
-Correctly predicted examples using weight vector- 246  :  13
-Distinct weight vector- 247  :  [-3.7090068  -2.206267   -1.9123817  -1.39023692]
-Correctly predicted examples using weight vector- 247  :  1
-Distinct weight vector- 248  :  [-3.6713698  -2.288625   -1.8338387  -1.31571292]
-Correctly predicted examples using weight vector- 248  :  6
-Distinct weight vector- 249  :  [-3.6195698  -2.26276    -1.9179237  -1.21959492]
-Correctly predicted examples using weight vector- 249  :  4
-Distinct weight vector- 250  :  [-3.6165479  -2.36788    -1.7776837  -1.14222592]
-Correctly predicted examples using weight vector- 250  :  20
-Distinct weight vector- 251  :  [-3.5564979  -2.17461    -2.1065637  -1.17464092]
-Correctly predicted examples using weight vector- 251  :  55
-Distinct weight vector- 252  :  [-3.4057279  -1.97865    -2.4124037  -1.18688392]
-Correctly predicted examples using weight vector- 252  :  41
-Distinct weight vector- 253  :  [-3.1862979  -1.52362    -2.9100037  -1.45942392]
-Correctly predicted examples using weight vector- 253  :  14
-Distinct weight vector- 254  :  [-3.3431079  -2.24808    -2.2546337  -1.47218392]
-Correctly predicted examples using weight vector- 254  :  4
-Distinct weight vector- 255  :  [-3.4088749  -2.52826    -1.8834837  -1.37244492]
-Correctly predicted examples using weight vector- 255  :  2
-Distinct weight vector- 256  :  [-3.4608249  -2.20193    -2.1924337  -1.27395492]
-Correctly predicted examples using weight vector- 256  :  35
-Distinct weight vector- 257  :  [-3.3256449  -2.09598    -2.4268037  -1.23395692]
-Correctly predicted examples using weight vector- 257  :  29
-Distinct weight vector- 258  :  [-3.3042139  -2.165509   -2.3390927  -1.20430392]
-Correctly predicted examples using weight vector- 258  :  14
-Distinct weight vector- 259  :  [-3.0650439  -1.709859   -2.8379727  -1.49417392]
-Correctly predicted examples using weight vector- 259  :  3
-Distinct weight vector- 260  :  [-3.2113239  -1.866919   -2.5944027  -1.44434792]
-Correctly predicted examples using weight vector- 260  :  4
-Distinct weight vector- 261  :  [-3.6590739  -3.169949   -0.8860627  -1.74779792]
-Correctly predicted examples using weight vector- 261  :  14
-Distinct weight vector- 262  :  [-3.5908939  -2.684909   -1.4073927  -2.35822792]
-Correctly predicted examples using weight vector- 262  :  3
-Distinct weight vector- 263  :  [-3.5934253  -2.702292   -1.4187317  -2.23624792]
-Correctly predicted examples using weight vector- 263  :  29
-Distinct weight vector- 264  :  [-3.5229353  -2.685118   -1.5973217  -2.20012892]
-Correctly predicted examples using weight vector- 264  :  10
-Distinct weight vector- 265  :  [-3.4021353  -2.277678   -2.0736717  -2.46141892]
-Correctly predicted examples using weight vector- 265  :  6
-Distinct weight vector- 266  :  [-3.2801553  -2.067858   -2.3932117  -2.44857592]
-Correctly predicted examples using weight vector- 266  :  14
-Distinct weight vector- 267  :  [-3.2014653  -3.024488   -2.0145417  -1.69823592]
-Correctly predicted examples using weight vector- 267  :  9
-Distinct weight vector- 268  :  [-3.2534123  -2.698158   -2.3234917  -1.59974392]
-Correctly predicted examples using weight vector- 268  :  2
-Distinct weight vector- 269  :  [-3.0943723  -2.476948   -2.6353217  -1.61146892]
-Correctly predicted examples using weight vector- 269  :  3
-Distinct weight vector- 270  :  [-3.2200523  -2.624278   -2.3481417  -1.56681592]
-Correctly predicted examples using weight vector- 270  :  49
-Distinct weight vector- 271  :  [-3.2079263  -2.601931   -2.3954687  -1.46979192]
-Correctly predicted examples using weight vector- 271  :  54
-Distinct weight vector- 272  :  [-3.0346163  -2.206491   -2.8695887  -1.71996192]
-Correctly predicted examples using weight vector- 272  :  151
-Distinct weight vector- 273  :  [-3.1119043  -2.951221   -2.2203887  -1.68384292]
-Correctly predicted examples using weight vector- 273  :  19
-Distinct weight vector- 274  :  [-2.9331543  -2.473221   -2.7340087  -2.00746292]
-Correctly predicted examples using weight vector- 274  :  1
-Distinct weight vector- 275  :  [-3.2932743  -3.127111   -1.6816687  -2.05642992]
-Correctly predicted examples using weight vector- 275  :  10
-Distinct weight vector- 276  :  [-3.2370423  -3.026961   -1.9089287  -2.05703478]
-Correctly predicted examples using weight vector- 276  :  4
-Distinct weight vector- 277  :  [-3.2027023  -3.014546   -1.9376617  -2.04238078]
-Correctly predicted examples using weight vector- 277  :  5
-Distinct weight vector- 278  :  [-3.4437023  -2.640216   -1.9778767  -2.17191078]
-Correctly predicted examples using weight vector- 278  :  14
-Distinct weight vector- 279  :  [-3.5135813  -2.977926   -1.5657667  -2.02148078]
-Correctly predicted examples using weight vector- 279  :  11
-Distinct weight vector- 280  :  [-3.5465013  -2.532406   -2.0229467  -1.92260078]
-Correctly predicted examples using weight vector- 280  :  9
-Distinct weight vector- 281  :  [-3.3447313  -2.352586   -2.3187567  -1.90161078]
-Correctly predicted examples using weight vector- 281  :  35
-Distinct weight vector- 282  :  [-3.3776553  -1.907066   -2.7759367  -1.80273078]
-Correctly predicted examples using weight vector- 282  :  4
-Distinct weight vector- 283  :  [-3.4330103  -2.699396   -2.1043767  -1.72833678]
-Correctly predicted examples using weight vector- 283  :  13
-Distinct weight vector- 284  :  [-3.2299103  -2.514196   -2.4055867  -1.72803648]
-Correctly predicted examples using weight vector- 284  :  35
-Distinct weight vector- 285  :  [-3.0809503  -2.171316   -2.8086767  -1.87062648]
-Correctly predicted examples using weight vector- 285  :  5
-Distinct weight vector- 286  :  [-3.08054485 -2.108411   -2.8727977  -1.79480948]
-Correctly predicted examples using weight vector- 286  :  1
-Distinct weight vector- 287  :  [-3.21941485 -2.596141   -2.2250577  -1.76063048]
-Correctly predicted examples using weight vector- 287  :  7
-Distinct weight vector- 288  :  [-3.07440485 -2.235471   -2.6306277  -1.92029048]
-Correctly predicted examples using weight vector- 288  :  18
-Distinct weight vector- 289  :  [-2.99571485 -3.192101   -2.2519577  -1.16995048]
+Distinct weight vector- 213  :  [-3.54939027 -2.4421525  -2.74803962 -1.42463982]
+Correctly predicted examples using weight vector- 213  :  12
+Distinct weight vector- 214  :  [-3.70261027 -2.9518125  -2.08024962 -1.40714182]
+Correctly predicted examples using weight vector- 214  :  24
+Distinct weight vector- 215  :  [-3.73553027 -2.5062925  -2.53742962 -1.30826182]
+Correctly predicted examples using weight vector- 215  :  2
+Distinct weight vector- 216  :  [-3.61355027 -2.2964725  -2.85696962 -1.29541882]
+Correctly predicted examples using weight vector- 216  :  27
+Distinct weight vector- 217  :  [-3.77384027 -2.3353755  -2.69496962 -1.10438882]
+Correctly predicted examples using weight vector- 217  :  18
+Distinct weight vector- 218  :  [-3.62307027 -2.1394155  -3.00080962 -1.11663182]
+Correctly predicted examples using weight vector- 218  :  32
+Distinct weight vector- 219  :  [-4.07082027 -3.4424455  -1.29246962 -1.42008182]
+Correctly predicted examples using weight vector- 219  :  29
+Distinct weight vector- 220  :  [-4.16022927 -3.1225355  -1.47465962 -1.71460182]
+Correctly predicted examples using weight vector- 220  :  15
+Distinct weight vector- 221  :  [-4.05828927 -3.0122455  -1.70465962 -1.65520682]
+Correctly predicted examples using weight vector- 221  :  1
+Distinct weight vector- 222  :  [-3.98422227 -2.8392555  -2.02428962 -1.66977682]
+Correctly predicted examples using weight vector- 222  :  1
+Distinct weight vector- 223  :  [-3.83526227 -2.4963755  -2.42737962 -1.81236682]
+Correctly predicted examples using weight vector- 223  :  4
+Distinct weight vector- 224  :  [-3.67622227 -2.2751655  -2.73920962 -1.82409182]
+Correctly predicted examples using weight vector- 224  :  30
+Distinct weight vector- 225  :  [-3.90247227 -2.285099   -2.45793962 -1.77542982]
+Correctly predicted examples using weight vector- 225  :  2
+Distinct weight vector- 226  :  [-3.89945037 -2.390219   -2.31769962 -1.69806082]
+Correctly predicted examples using weight vector- 226  :  10
+Distinct weight vector- 227  :  [-3.74135037 -2.30331    -2.54907962 -1.61564882]
+Correctly predicted examples using weight vector- 227  :  6
+Distinct weight vector- 228  :  [-3.59634037 -1.94264    -2.95464962 -1.77530882]
+Correctly predicted examples using weight vector- 228  :  51
+Distinct weight vector- 229  :  [-3.67362837 -2.68737    -2.30544962 -1.73918982]
+Correctly predicted examples using weight vector- 229  :  40
+Distinct weight vector- 230  :  [-3.72557837 -2.36104    -2.61439962 -1.64069982]
+Correctly predicted examples using weight vector- 230  :  47
+Distinct weight vector- 231  :  [-3.64688837 -3.31767    -2.23572962 -0.89035982]
+Correctly predicted examples using weight vector- 231  :  29
+Distinct weight vector- 232  :  [-4.28052837 -2.38919    -2.23430212 -1.56879982]
+Correctly predicted examples using weight vector- 232  :  23
+Distinct weight vector- 233  :  [-4.29782437 -2.50735    -2.09612212 -1.49543982]
+Correctly predicted examples using weight vector- 233  :  14
+Distinct weight vector- 234  :  [-4.26348437 -2.494935   -2.12485512 -1.48078582]
+Correctly predicted examples using weight vector- 234  :  2
+Distinct weight vector- 235  :  [-4.21168437 -2.46907    -2.20894012 -1.38466782]
+Correctly predicted examples using weight vector- 235  :  22
+Distinct weight vector- 236  :  [-4.07985437 -2.2789     -2.54005012 -1.37816072]
+Correctly predicted examples using weight vector- 236  :  54
+Distinct weight vector- 237  :  [-4.15731537 -2.46658    -2.29982012 -1.26497072]
+Correctly predicted examples using weight vector- 237  :  15
+Distinct weight vector- 238  :  [-4.19023937 -2.02106    -2.75700012 -1.16609072]
+Correctly predicted examples using weight vector- 238  :  18
+Distinct weight vector- 239  :  [-4.17811337 -1.998713   -2.80432712 -1.06906672]
+Correctly predicted examples using weight vector- 239  :  19
+Distinct weight vector- 240  :  [-4.32611337 -3.051153   -1.81256712 -1.11932672]
+Correctly predicted examples using weight vector- 240  :  13
+Distinct weight vector- 241  :  [-4.32624189 -3.03729    -1.83221812 -1.11850918]
+Correctly predicted examples using weight vector- 241  :  1
+Distinct weight vector- 242  :  [-4.22072189 -2.91872    -2.09632812 -1.10747618]
+Correctly predicted examples using weight vector- 242  :  8
+Distinct weight vector- 243  :  [-4.19929089 -2.988249   -2.00861712 -1.07782318]
+Correctly predicted examples using weight vector- 243  :  49
+Distinct weight vector- 244  :  [-4.25124089 -2.661919   -2.31756712 -0.97933318]
+Correctly predicted examples using weight vector- 244  :  2
+Distinct weight vector- 245  :  [-4.25083544 -2.599014   -2.38168812 -0.90351618]
+Correctly predicted examples using weight vector- 245  :  19
+Distinct weight vector- 246  :  [-4.25336684 -2.616397   -2.39302712 -0.78153618]
+Correctly predicted examples using weight vector- 246  :  30
+Distinct weight vector- 247  :  [-4.13057684 -2.213307   -2.85737712 -1.17278618]
+Correctly predicted examples using weight vector- 247  :  17
+Distinct weight vector- 248  :  [-3.99539684 -2.107357   -3.09174712 -1.13278818]
+Correctly predicted examples using weight vector- 248  :  10
+Distinct weight vector- 249  :  [-4.48093684 -2.697727   -1.99356712 -1.21498718]
+Correctly predicted examples using weight vector- 249  :  6
+Distinct weight vector- 250  :  [-4.42470484 -2.597577   -2.22082712 -1.21559204]
+Correctly predicted examples using weight vector- 250  :  10
+Distinct weight vector- 251  :  [-4.40327384 -2.667106   -2.13311612 -1.18593904]
+Correctly predicted examples using weight vector- 251  :  13
+Distinct weight vector- 252  :  [-4.27144384 -2.476936   -2.46422612 -1.17943194]
+Correctly predicted examples using weight vector- 252  :  18
+Distinct weight vector- 253  :  [-4.33721084 -2.757116   -2.09307612 -1.07969294]
+Correctly predicted examples using weight vector- 253  :  3
+Distinct weight vector- 254  :  [-4.23169084 -2.638546   -2.35718612 -1.06865994]
+Correctly predicted examples using weight vector- 254  :  27
+Distinct weight vector- 255  :  [-4.11089084 -2.231106   -2.83353612 -1.32994994]
+Correctly predicted examples using weight vector- 255  :  14
+Distinct weight vector- 256  :  [-4.05909084 -2.205241   -2.91762112 -1.23383194]
+Correctly predicted examples using weight vector- 256  :  13
+Distinct weight vector- 257  :  [-4.43412084 -3.551101   -1.15830112 -1.51154194]
+Correctly predicted examples using weight vector- 257  :  4
+Distinct weight vector- 258  :  [-4.23102084 -3.365901   -1.45951112 -1.51124164]
+Correctly predicted examples using weight vector- 258  :  19
+Distinct weight vector- 259  :  [-4.21942884 -3.043711   -1.80253112 -1.79581164]
+Correctly predicted examples using weight vector- 259  :  4
+Distinct weight vector- 260  :  [-4.09370884 -2.556401   -2.33114112 -2.38322164]
+Correctly predicted examples using weight vector- 260  :  3
+Distinct weight vector- 261  :  [-4.17116984 -2.744081   -2.09091112 -2.27003164]
+Correctly predicted examples using weight vector- 261  :  1
+Distinct weight vector- 262  :  [-4.24173984 -2.194271   -2.92459112 -1.98288164]
+Correctly predicted examples using weight vector- 262  :  16
+Distinct weight vector- 263  :  [-4.55039984 -2.857891   -1.87054112 -2.07206364]
+Correctly predicted examples using weight vector- 263  :  4
+Distinct weight vector- 264  :  [-4.49034984 -2.757946   -2.09180112 -2.06232374]
+Correctly predicted examples using weight vector- 264  :  12
+Distinct weight vector- 265  :  [-4.42587784 -2.297326   -2.92650112 -1.79133374]
+Correctly predicted examples using weight vector- 265  :  9
+Distinct weight vector- 266  :  [-4.42547239 -2.234421   -2.99062212 -1.71551674]
+Correctly predicted examples using weight vector- 266  :  12
+Distinct weight vector- 267  :  [-4.20604239 -1.779391   -3.48822212 -1.98805674]
+Correctly predicted examples using weight vector- 267  :  1
+Distinct weight vector- 268  :  [-3.94125239 -2.793131   -3.35512212 -1.44098674]
+Correctly predicted examples using weight vector- 268  :  5
+Distinct weight vector- 269  :  [-3.90361539 -2.875489   -3.27657912 -1.36646274]
+Correctly predicted examples using weight vector- 269  :  16
+Distinct weight vector- 270  :  [-4.04248539 -3.363219   -2.62883912 -1.33228374]
+Correctly predicted examples using weight vector- 270  :  58
+Distinct weight vector- 271  :  [-3.89352539 -3.020339   -3.03192912 -1.47487374]
+Correctly predicted examples using weight vector- 271  :  1
+Distinct weight vector- 272  :  [-3.88139939 -2.997992   -3.07925612 -1.37784974]
+Correctly predicted examples using weight vector- 272  :  8
+Distinct weight vector- 273  :  [-3.95127839 -3.335702   -2.66714612 -1.22741974]
+Correctly predicted examples using weight vector- 273  :  1
+Distinct weight vector- 274  :  [-3.99324339 -3.044762   -2.84573612 -1.44810974]
+Correctly predicted examples using weight vector- 274  :  6
+Distinct weight vector- 275  :  [-3.99022149 -3.149882   -2.70549612 -1.37074074]
+Correctly predicted examples using weight vector- 275  :  7
+Distinct weight vector- 276  :  [-3.83212149 -3.062973   -2.93687612 -1.28832874]
+Correctly predicted examples using weight vector- 276  :  10
+Distinct weight vector- 277  :  [-3.73095149 -2.972753   -3.17193612 -1.24561474]
+Correctly predicted examples using weight vector- 277  :  14
+Distinct weight vector- 278  :  [-4.16868149 -3.524423   -2.07803612 -1.28643474]
+Correctly predicted examples using weight vector- 278  :  2
+Distinct weight vector- 279  :  [-4.13434149 -3.512008   -2.10676912 -1.27178074]
+Correctly predicted examples using weight vector- 279  :  4
+Distinct weight vector- 280  :  [-4.22731149 -3.132298   -2.57105912 -1.24221074]
+Correctly predicted examples using weight vector- 280  :  6
+Distinct weight vector- 281  :  [-4.22984289 -3.149681   -2.58239812 -1.12023074]
+Correctly predicted examples using weight vector- 281  :  68
+Distinct weight vector- 282  :  [-4.20544889 -3.002351   -2.72431812 -1.17876574]
+Correctly predicted examples using weight vector- 282  :  37
+Distinct weight vector- 283  :  [-4.25739889 -2.676021   -3.03326812 -1.08027574]
+Correctly predicted examples using weight vector- 283  :  12
+Distinct weight vector- 284  :  [-4.41061889 -3.185681   -2.36547812 -1.06277774]
+Correctly predicted examples using weight vector- 284  :  62
+Distinct weight vector- 285  :  [-4.30867889 -3.075391   -2.59547812 -1.00338274]
+Correctly predicted examples using weight vector- 285  :  7
+Distinct weight vector- 286  :  [-4.36062589 -2.749061   -2.90442812 -0.90489074]
+Correctly predicted examples using weight vector- 286  :  40
+Distinct weight vector- 287  :  [-4.18187589 -2.271061   -3.41804812 -1.22851074]
+Correctly predicted examples using weight vector- 287  :  9
+Distinct weight vector- 288  :  [-4.46578589 -2.934061   -2.36955812 -1.27062374]
+Correctly predicted examples using weight vector- 288  :  8
+Distinct weight vector- 289  :  [-4.40984689 -2.965101   -2.35125112 -1.22597074]
 Correctly predicted examples using weight vector- 289  :  3
-Distinct weight vector- 290  :  [-2.82772485 -2.771421   -2.7059377  -1.40926048]
-Correctly predicted examples using weight vector- 290  :  16
-Distinct weight vector- 291  :  [-3.03301485 -2.387571   -2.7854817  -1.53064048]
-Correctly predicted examples using weight vector- 291  :  3
-Distinct weight vector- 292  :  [-3.40262485 -3.755361   -1.0275317  -1.79245048]
-Correctly predicted examples using weight vector- 292  :  6
-Distinct weight vector- 293  :  [-3.72847485 -3.309221   -1.4077717  -1.77736348]
-Correctly predicted examples using weight vector- 293  :  10
-Distinct weight vector- 294  :  [-3.73769425 -3.269906   -1.4406177  -1.79115748]
-Correctly predicted examples using weight vector- 294  :  17
-Distinct weight vector- 295  :  [-3.94691425 -2.588906   -2.2869777  -1.73094148]
-Correctly predicted examples using weight vector- 295  :  8
-Distinct weight vector- 296  :  [-3.95863025 -2.528484   -2.3255647  -1.73684798]
-Correctly predicted examples using weight vector- 296  :  44
-Distinct weight vector- 297  :  [-4.01058025 -2.202154   -2.6345147  -1.63835798]
-Correctly predicted examples using weight vector- 297  :  28
-Distinct weight vector- 298  :  [-3.98814825 -2.254301   -2.6749007  -1.51818798]
-Correctly predicted examples using weight vector- 298  :  15
-Distinct weight vector- 299  :  [-3.97602225 -2.231954   -2.7222277  -1.42116398]
-Correctly predicted examples using weight vector- 299  :  1
-Distinct weight vector- 300  :  [-3.87485225 -2.141734   -2.9572877  -1.37844998]
-Correctly predicted examples using weight vector- 300  :  23
-Distinct weight vector- 301  :  [-4.04162225 -2.857084   -2.1679977  -1.28168498]
-Correctly predicted examples using weight vector- 301  :  50
-Distinct weight vector- 302  :  [-3.88258225 -2.635874   -2.4798277  -1.29340998]
-Correctly predicted examples using weight vector- 302  :  20
-Distinct weight vector- 303  :  [-3.91550225 -2.190354   -2.9370077  -1.19452998]
-Correctly predicted examples using weight vector- 303  :  3
-Distinct weight vector- 304  :  [-3.93279825 -2.308514   -2.7988277  -1.12116998]
-Correctly predicted examples using weight vector- 304  :  10
-Distinct weight vector- 305  :  [-4.10383825 -2.786314   -2.1777377  -1.08142998]
-Correctly predicted examples using weight vector- 305  :  5
-Distinct weight vector- 306  :  [-4.04378825 -2.593044   -2.5066177  -1.11384498]
-Correctly predicted examples using weight vector- 306  :  4
-Distinct weight vector- 307  :  [-3.84068825 -2.407844   -2.8078277  -1.11354468]
-Correctly predicted examples using weight vector- 307  :  3
-Distinct weight vector- 308  :  [-3.69172825 -2.064964   -3.2109177  -1.25613468]
-Correctly predicted examples using weight vector- 308  :  17
-Distinct weight vector- 309  :  [-3.63992825 -2.039099   -3.2950027  -1.16001668]
-Correctly predicted examples using weight vector- 309  :  8
-Distinct weight vector- 310  :  [-3.78792825 -3.091539   -2.3032427  -1.21027668]
-Correctly predicted examples using weight vector- 310  :  7
-Distinct weight vector- 311  :  [-3.89980825 -2.757969   -2.4377927  -1.40600668]
-Correctly predicted examples using weight vector- 311  :  5
-Distinct weight vector- 312  :  [-3.84386925 -2.789009   -2.4194857  -1.36135368]
-Correctly predicted examples using weight vector- 312  :  29
-Distinct weight vector- 313  :  [-3.71203925 -2.598839   -2.7505957  -1.35484658]
-Correctly predicted examples using weight vector- 313  :  110
-Distinct weight vector- 314  :  [-3.54404925 -2.178159   -3.2045757  -1.59415658]
-Correctly predicted examples using weight vector- 314  :  9
-Distinct weight vector- 315  :  [-3.68064925 -2.159743   -3.1140367  -1.43609658]
-Correctly predicted examples using weight vector- 315  :  2
-Distinct weight vector- 316  :  [-3.93437925 -2.855643   -2.2334967  -1.28320658]
-Correctly predicted examples using weight vector- 316  :  6
-Distinct weight vector- 317  :  [-3.76106925 -2.460203   -2.7076167  -1.53337658]
-Correctly predicted examples using weight vector- 317  :  20
-Distinct weight vector- 318  :  [-3.92135925 -2.499106   -2.5456167  -1.34234658]
-Correctly predicted examples using weight vector- 318  :  21
-Distinct weight vector- 319  :  [-3.76325925 -2.412197   -2.7769967  -1.25993458]
-Correctly predicted examples using weight vector- 319  :  3
-Distinct weight vector- 320  :  [-3.76579065 -2.42958    -2.7883357  -1.13795458]
-Correctly predicted examples using weight vector- 320  :  18
-Distinct weight vector- 321  :  [-3.91901065 -2.93924    -2.1205457  -1.12045658]
-Correctly predicted examples using weight vector- 321  :  24
-Distinct weight vector- 322  :  [-3.79703065 -2.72942    -2.4400857  -1.10761358]
-Correctly predicted examples using weight vector- 322  :  2
-Distinct weight vector- 323  :  [-3.76269065 -2.717005   -2.4688187  -1.09295958]
-Correctly predicted examples using weight vector- 323  :  17
-Distinct weight vector- 324  :  [-3.72505365 -2.799363   -2.3902757  -1.01843558]
-Correctly predicted examples using weight vector- 324  :  56
-Distinct weight vector- 325  :  [-3.77700365 -2.473033   -2.6992257  -0.91994558]
-Correctly predicted examples using weight vector- 325  :  23
-Distinct weight vector- 326  :  [-3.75557265 -2.542562   -2.6115147  -0.89029258]
-Correctly predicted examples using weight vector- 326  :  4
-Distinct weight vector- 327  :  [-3.60480265 -2.346602   -2.9173547  -0.90253558]
-Correctly predicted examples using weight vector- 327  :  40
-Distinct weight vector- 328  :  [-3.6043972  -2.283697   -2.9814757  -0.82671858]
-Correctly predicted examples using weight vector- 328  :  9
-Distinct weight vector- 329  :  [-3.6597522  -3.076027   -2.3099157  -0.75232458]
-Correctly predicted examples using weight vector- 329  :  7
-Distinct weight vector- 330  :  [-3.7117022  -2.749697   -2.6188657  -0.65383458]
-Correctly predicted examples using weight vector- 330  :  3
-Distinct weight vector- 331  :  [-3.4725322  -2.294047   -3.1177457  -0.94370458]
-Correctly predicted examples using weight vector- 331  :  11
-Distinct weight vector- 332  :  [-3.4695103  -2.399167   -2.9775057  -0.86633558]
-Correctly predicted examples using weight vector- 332  :  1
-Distinct weight vector- 333  :  [-3.6083803  -2.886897   -2.3297657  -0.83215658]
-Correctly predicted examples using weight vector- 333  :  17
-Distinct weight vector- 334  :  [-3.7095003  -2.587057   -2.4464057  -0.99400658]
-Correctly predicted examples using weight vector- 334  :  10
-Distinct weight vector- 335  :  [-3.5077303  -2.407237   -2.7422157  -0.97301658]
-Correctly predicted examples using weight vector- 335  :  10
-Distinct weight vector- 336  :  [-3.3725503  -2.301287   -2.9765857  -0.93301858]
-Correctly predicted examples using weight vector- 336  :  7
-Distinct weight vector- 337  :  [-3.4383173  -2.581467   -2.6054357  -0.83327958]
-Correctly predicted examples using weight vector- 337  :  4
-Distinct weight vector- 338  :  [-3.2933073  -2.220797   -3.0110057  -0.99293958]
-Correctly predicted examples using weight vector- 338  :  21
-Distinct weight vector- 339  :  [-3.4495173  -2.442007   -2.5850957  -0.96496758]
-Correctly predicted examples using weight vector- 339  :  5
-Distinct weight vector- 340  :  [-3.3475773  -2.331717   -2.8150957  -0.90557258]
-Correctly predicted examples using weight vector- 340  :  26
-Distinct weight vector- 341  :  [-3.5738273  -2.3416505  -2.5338257  -0.85691058]
-Correctly predicted examples using weight vector- 341  :  25
-Distinct weight vector- 342  :  [-3.3543973  -1.8866205  -3.0314257  -1.12945058]
-Correctly predicted examples using weight vector- 342  :  23
-Distinct weight vector- 343  :  [-3.4710673  -2.0289905  -2.7390157  -1.06333158]
-Correctly predicted examples using weight vector- 343  :  7
-Distinct weight vector- 344  :  [-3.5264223  -2.8213205  -2.0674557  -0.98893758]
-Correctly predicted examples using weight vector- 344  :  19
-Distinct weight vector- 345  :  [-3.5103143  -2.1750805  -2.9031857  -0.83677758]
-Correctly predicted examples using weight vector- 345  :  5
-Distinct weight vector- 346  :  [-3.4543753  -2.2061205  -2.8848787  -0.79212458]
-Correctly predicted examples using weight vector- 346  :  3
-Distinct weight vector- 347  :  [-3.8565553  -3.0365205  -1.6293787  -0.94311458]
-Correctly predicted examples using weight vector- 347  :  8
-Distinct weight vector- 348  :  [-3.8189183  -3.1188785  -1.5508357  -0.86859058]
-Correctly predicted examples using weight vector- 348  :  16
-Distinct weight vector- 349  :  [-3.7222103  -2.7346185  -2.0439757  -1.28182058]
-Correctly predicted examples using weight vector- 349  :  5
-Distinct weight vector- 350  :  [-3.7007793  -2.8041475  -1.9562647  -1.25216758]
-Correctly predicted examples using weight vector- 350  :  25
-Distinct weight vector- 351  :  [-3.7713493  -2.2543375  -2.7899447  -0.96501758]
-Correctly predicted examples using weight vector- 351  :  13
-Distinct weight vector- 352  :  [-3.6123093  -2.0331275  -3.1017747  -0.97674258]
-Correctly predicted examples using weight vector- 352  :  33
-Distinct weight vector- 353  :  [-3.6092874  -2.1382475  -2.9615347  -0.89937358]
-Correctly predicted examples using weight vector- 353  :  7
-Distinct weight vector- 354  :  [-3.8354574  -2.6125275  -2.3266447  -0.88821158]
-Correctly predicted examples using weight vector- 354  :  15
-Distinct weight vector- 355  :  [-3.7290874  -2.2429575  -2.7425847  -1.08200158]
-Correctly predicted examples using weight vector- 355  :  27
-Distinct weight vector- 356  :  [-3.5709874  -2.1560485  -2.9739647  -0.99958958]
-Correctly predicted examples using weight vector- 356  :  30
-Distinct weight vector- 357  :  [-3.8852174  -3.4596985  -1.4062347  -1.06575458]
-Correctly predicted examples using weight vector- 357  :  1
-Distinct weight vector- 358  :  [-3.8608234  -3.3123685  -1.5481547  -1.12428958]
-Correctly predicted examples using weight vector- 358  :  5
-Distinct weight vector- 359  :  [-3.7388434  -3.1025485  -1.8676947  -1.11144658]
-Correctly predicted examples using weight vector- 359  :  17
-Distinct weight vector- 360  :  [-3.6880304  -3.0547495  -2.0657347  -1.05373258]
-Correctly predicted examples using weight vector- 360  :  1
-Distinct weight vector- 361  :  [-3.8933204  -2.6708995  -2.1452787  -1.17511258]
-Correctly predicted examples using weight vector- 361  :  9
-Distinct weight vector- 362  :  [-3.7145704  -2.1928995  -2.6588987  -1.49873258]
-Correctly predicted examples using weight vector- 362  :  14
-Distinct weight vector- 363  :  [-3.5695604  -1.8322295  -3.0644687  -1.65839258]
-Correctly predicted examples using weight vector- 363  :  8
-Distinct weight vector- 364  :  [-3.6353274  -2.1124095  -2.6933187  -1.55865358]
-Correctly predicted examples using weight vector- 364  :  4
-Distinct weight vector- 365  :  [-3.8294174  -2.9808895  -1.7778187  -1.46460458]
-Correctly predicted examples using weight vector- 365  :  27
-Distinct weight vector- 366  :  [-3.8813644  -2.6545595  -2.0867687  -1.36611258]
-Correctly predicted examples using weight vector- 366  :  7
-Distinct weight vector- 367  :  [-3.9333144  -2.3282295  -2.3957187  -1.26762258]
-Correctly predicted examples using weight vector- 367  :  2
-Distinct weight vector- 368  :  [-4.0031934  -2.6659395  -1.9836087  -1.11719258]
-Correctly predicted examples using weight vector- 368  :  1
-Distinct weight vector- 369  :  [-3.9688534  -2.6535245  -2.0123417  -1.10253858]
-Correctly predicted examples using weight vector- 369  :  2
-Distinct weight vector- 370  :  [-3.7494234  -2.1984945  -2.5099417  -1.37507858]
-Correctly predicted examples using weight vector- 370  :  14
-Distinct weight vector- 371  :  [-3.6439034  -2.0799245  -2.7740517  -1.36404558]
-Correctly predicted examples using weight vector- 371  :  18
-Distinct weight vector- 372  :  [-3.6317774  -2.0575775  -2.8213787  -1.26702158]
-Correctly predicted examples using weight vector- 372  :  4
-Distinct weight vector- 373  :  [-3.9548274  -2.7789275  -1.6570487  -1.36163458]
-Correctly predicted examples using weight vector- 373  :  25
-Distinct weight vector- 374  :  [-3.8947774  -2.6789825  -1.8783087  -1.35189468]
-Correctly predicted examples using weight vector- 374  :  8
-Distinct weight vector- 375  :  [-3.7739774  -2.2715425  -2.3546587  -1.61318468]
-Correctly predicted examples using weight vector- 375  :  4
-Distinct weight vector- 376  :  [-3.6952874  -3.2281725  -1.9759887  -0.86284468]
-Correctly predicted examples using weight vector- 376  :  32
-Distinct weight vector- 377  :  [-3.6057754  -2.7507925  -2.4602987  -1.42193468]
-Correctly predicted examples using weight vector- 377  :  3
-Distinct weight vector- 378  :  [-3.6083068  -2.7681755  -2.4716377  -1.29995468]
-Correctly predicted examples using weight vector- 378  :  34
-Distinct weight vector- 379  :  [-3.3691368  -2.3125255  -2.9705177  -1.58982468]
-Correctly predicted examples using weight vector- 379  :  1
-Distinct weight vector- 380  :  [-3.4627238  -2.8226055  -2.5168477  -1.45116468]
-Correctly predicted examples using weight vector- 380  :  5
-Distinct weight vector- 381  :  [-3.4956438  -2.3770855  -2.9740277  -1.35228468]
-Correctly predicted examples using weight vector- 381  :  29
-Distinct weight vector- 382  :  [-3.8225638  -3.6511455  -1.4182977  -1.36646668]
-Correctly predicted examples using weight vector- 382  :  2
-Distinct weight vector- 383  :  [-3.8342798  -3.5907235  -1.4568847  -1.37237318]
-Correctly predicted examples using weight vector- 383  :  4
-Distinct weight vector- 384  :  [-3.7605198  -3.1054735  -1.9367447  -1.93896318]
-Correctly predicted examples using weight vector- 384  :  13
-Distinct weight vector- 385  :  [-3.6900298  -3.0882995  -2.1153347  -1.90284418]
-Correctly predicted examples using weight vector- 385  :  5
-Distinct weight vector- 386  :  [-3.7419798  -2.7619695  -2.4242847  -1.80435418]
-Correctly predicted examples using weight vector- 386  :  15
-Distinct weight vector- 387  :  [-3.6408098  -2.6717495  -2.6593447  -1.76164018]
-Correctly predicted examples using weight vector- 387  :  22
-Distinct weight vector- 388  :  [-3.4918498  -2.3288695  -3.0624347  -1.90423018]
-Correctly predicted examples using weight vector- 388  :  17
-Distinct weight vector- 389  :  [-3.3618498  -3.3556495  -2.7671347  -1.31785018]
-Correctly predicted examples using weight vector- 389  :  11
-Distinct weight vector- 390  :  [-3.1600798  -3.1758295  -3.0629447  -1.29686018]
-Correctly predicted examples using weight vector- 390  :  21
-Distinct weight vector- 391  :  [-3.0581398  -3.0655395  -3.2929447  -1.23746518]
-Correctly predicted examples using weight vector- 391  :  23
-Distinct weight vector- 392  :  [-3.1356008  -3.2532195  -3.0527147  -1.12427518]
-Correctly predicted examples using weight vector- 392  :  9
-Distinct weight vector- 393  :  [-3.5733308  -3.8048895  -1.9588147  -1.16509518]
-Correctly predicted examples using weight vector- 393  :  7
-Distinct weight vector- 394  :  [-3.6226118  -3.4988395  -2.1423747  -1.44849518]
-Correctly predicted examples using weight vector- 394  :  8
-Distinct weight vector- 395  :  [-3.4493018  -3.1033995  -2.6164947  -1.69866518]
-Correctly predicted examples using weight vector- 395  :  1
-Distinct weight vector- 396  :  [-3.3141218  -2.9974495  -2.8508647  -1.65866718]
-Correctly predicted examples using weight vector- 396  :  9
-Distinct weight vector- 397  :  [-3.1633518  -2.8014895  -3.1567047  -1.67091018]
-Correctly predicted examples using weight vector- 397  :  21
-Distinct weight vector- 398  :  [-3.3896018  -2.811423   -2.8754347  -1.62224818]
+Distinct weight vector- 290  :  [-4.28705689 -2.562011   -2.81560112 -1.61722074]
+Correctly predicted examples using weight vector- 290  :  9
+Distinct weight vector- 291  :  [-4.04788689 -2.106361   -3.31448112 -1.90709074]
+Correctly predicted examples using weight vector- 291  :  5
+Distinct weight vector- 292  :  [-4.10324189 -2.898691   -2.64292112 -1.83269674]
+Correctly predicted examples using weight vector- 292  :  7
+Distinct weight vector- 293  :  [-3.95823189 -2.538021   -3.04849112 -1.99235674]
+Correctly predicted examples using weight vector- 293  :  32
+Distinct weight vector- 294  :  [-3.83625189 -2.328201   -3.36803112 -1.97951374]
+Correctly predicted examples using weight vector- 294  :  37
+Distinct weight vector- 295  :  [-4.26512189 -3.114531   -2.18416112 -2.16929374]
+Correctly predicted examples using weight vector- 295  :  15
+Distinct weight vector- 296  :  [-4.31707189 -2.788201   -2.49311112 -2.07080374]
+Correctly predicted examples using weight vector- 296  :  58
+Distinct weight vector- 297  :  [-4.34999189 -2.342681   -2.95029112 -1.97192374]
+Correctly predicted examples using weight vector- 297  :  48
+Distinct weight vector- 298  :  [-4.19095189 -2.121471   -3.26212112 -1.98364874]
+Correctly predicted examples using weight vector- 298  :  10
+Distinct weight vector- 299  :  [-4.00511189 -2.910071   -3.09569112 -1.79980874]
+Correctly predicted examples using weight vector- 299  :  25
+Distinct weight vector- 300  :  [-4.13079189 -3.057401   -2.80851112 -1.75515574]
+Correctly predicted examples using weight vector- 300  :  18
+Distinct weight vector- 301  :  [-3.99561189 -2.951451   -3.04288112 -1.71515774]
+Correctly predicted examples using weight vector- 301  :  9
+Distinct weight vector- 302  :  [-3.79384189 -2.771631   -3.33869112 -1.69416774]
+Correctly predicted examples using weight vector- 302  :  7
+Distinct weight vector- 303  :  [-3.59207189 -2.591811   -3.63450112 -1.67317774]
+Correctly predicted examples using weight vector- 303  :  23
+Distinct weight vector- 304  :  [-3.77598189 -3.500641   -2.71034112 -1.68360974]
+Correctly predicted examples using weight vector- 304  :  7
+Distinct weight vector- 305  :  [-3.73834489 -3.582999   -2.63179812 -1.60908574]
+Correctly predicted examples using weight vector- 305  :  20
+Distinct weight vector- 306  :  [-4.38918489 -2.706039   -2.60860712 -2.00278574]
+Correctly predicted examples using weight vector- 306  :  15
+Distinct weight vector- 307  :  [-4.39171629 -2.723422   -2.61994612 -1.88080574]
+Correctly predicted examples using weight vector- 307  :  8
+Distinct weight vector- 308  :  [-4.24094629 -2.527462   -2.92578612 -1.89304874]
+Correctly predicted examples using weight vector- 308  :  24
+Distinct weight vector- 309  :  [-4.52485629 -3.190462   -1.87729612 -1.93516174]
+Correctly predicted examples using weight vector- 309  :  16
+Distinct weight vector- 310  :  [-4.50046229 -3.043132   -2.01921612 -1.99369674]
+Correctly predicted examples using weight vector- 310  :  3
+Distinct weight vector- 311  :  [-4.35150229 -2.700252   -2.42230612 -2.13628674]
+Correctly predicted examples using weight vector- 311  :  19
+Distinct weight vector- 312  :  [-4.21967229 -2.510082   -2.75341612 -2.12977964]
+Correctly predicted examples using weight vector- 312  :  8
+Distinct weight vector- 313  :  [-4.16787229 -2.484217   -2.83750112 -2.03366164]
+Correctly predicted examples using weight vector- 313  :  2
+Distinct weight vector- 314  :  [-4.15574629 -2.46187    -2.88482812 -1.93663764]
+Correctly predicted examples using weight vector- 314  :  8
+Distinct weight vector- 315  :  [-4.07705629 -3.4185     -2.50615812 -1.18629764]
+Correctly predicted examples using weight vector- 315  :  3
+Distinct weight vector- 316  :  [-4.07665084 -3.355595   -2.57027912 -1.11048064]
+Correctly predicted examples using weight vector- 316  :  61
+Distinct weight vector- 317  :  [-4.28194084 -2.971745   -2.64982312 -1.23186064]
+Correctly predicted examples using weight vector- 317  :  1
+Distinct weight vector- 318  :  [-4.17642084 -2.853175   -2.91393312 -1.22082764]
+Correctly predicted examples using weight vector- 318  :  3
+Distinct weight vector- 319  :  [-4.12048184 -2.884215   -2.89562612 -1.17617464]
+Correctly predicted examples using weight vector- 319  :  17
+Distinct weight vector- 320  :  [-4.13777784 -3.002375   -2.75744612 -1.10281464]
+Correctly predicted examples using weight vector- 320  :  15
+Distinct weight vector- 321  :  [-4.01579784 -2.792555   -3.07698612 -1.08997164]
+Correctly predicted examples using weight vector- 321  :  9
+Distinct weight vector- 322  :  [-3.85769784 -2.705646   -3.30836612 -1.00755964]
+Correctly predicted examples using weight vector- 322  :  54
+Distinct weight vector- 323  :  [-3.71268784 -2.344976   -3.71393612 -1.16721964]
+Correctly predicted examples using weight vector- 323  :  12
+Distinct weight vector- 324  :  [-3.99535784 -3.249046   -2.80699612 -1.26545264]
+Correctly predicted examples using weight vector- 324  :  8
+Distinct weight vector- 325  :  [-3.82204784 -2.853606   -3.28111612 -1.51562264]
+Correctly predicted examples using weight vector- 325  :  1
+Distinct weight vector- 326  :  [-3.80061684 -2.923135   -3.19340512 -1.48596964]
+Correctly predicted examples using weight vector- 326  :  6
+Distinct weight vector- 327  :  [-3.64157684 -2.701925   -3.50523512 -1.49769464]
+Correctly predicted examples using weight vector- 327  :  20
+Distinct weight vector- 328  :  [-3.97739684 -3.425965   -2.36104512 -1.55480764]
+Correctly predicted examples using weight vector- 328  :  1
+Distinct weight vector- 329  :  [-3.80940684 -3.005285   -2.81502512 -1.79411764]
+Correctly predicted examples using weight vector- 329  :  2
+Distinct weight vector- 330  :  [-3.70823684 -2.915065   -3.05008512 -1.75140364]
+Correctly predicted examples using weight vector- 330  :  1
+Distinct weight vector- 331  :  [-3.48880684 -2.460035   -3.54768512 -2.02394364]
+Correctly predicted examples using weight vector- 331  :  10
+Distinct weight vector- 332  :  [-3.84865684 -3.825965   -1.78716512 -2.27321364]
+Correctly predicted examples using weight vector- 332  :  26
+Distinct weight vector- 333  :  [-4.08965684 -3.451635   -1.82738012 -2.40274364]
+Correctly predicted examples using weight vector- 333  :  9
+Distinct weight vector- 334  :  [-4.13046084 -3.397421   -1.88010512 -2.33688364]
+Correctly predicted examples using weight vector- 334  :  4
+Distinct weight vector- 335  :  [-4.00966084 -2.989981   -2.35645512 -2.59817364]
+Correctly predicted examples using weight vector- 335  :  66
+Distinct weight vector- 336  :  [-3.94961084 -2.890036   -2.57771512 -2.58843374]
+Correctly predicted examples using weight vector- 336  :  1
+Distinct weight vector- 337  :  [-3.71044084 -2.434386   -3.07659512 -2.87830374]
+Correctly predicted examples using weight vector- 337  :  30
+Distinct weight vector- 338  :  [-3.78790184 -2.622066   -2.83636512 -2.76511374]
+Correctly predicted examples using weight vector- 338  :  1
+Distinct weight vector- 339  :  [-3.52311184 -3.635806   -2.70326512 -2.21804374]
+Correctly predicted examples using weight vector- 339  :  29
+Distinct weight vector- 340  :  [-3.52008994 -3.740926   -2.56302512 -2.14067474]
+Correctly predicted examples using weight vector- 340  :  59
+Distinct weight vector- 341  :  [-3.57203994 -3.414596   -2.87197512 -2.04218474]
+Correctly predicted examples using weight vector- 341  :  13
+Distinct weight vector- 342  :  [-3.78413994 -3.420184   -2.67707512 -1.90688474]
+Correctly predicted examples using weight vector- 342  :  24
+Distinct weight vector- 343  :  [-3.94442994 -3.459087   -2.51507512 -1.71585474]
+Correctly predicted examples using weight vector- 343  :  14
+Distinct weight vector- 344  :  [-3.87036294 -3.286097   -2.83470512 -1.73042474]
+Correctly predicted examples using weight vector- 344  :  13
+Distinct weight vector- 345  :  [-3.66726294 -3.100897   -3.13591512 -1.73012444]
+Correctly predicted examples using weight vector- 345  :  37
+Distinct weight vector- 346  :  [-3.78393294 -3.243267   -2.84350512 -1.66400544]
+Correctly predicted examples using weight vector- 346  :  8
+Distinct weight vector- 347  :  [-3.74959294 -3.230852   -2.87223812 -1.64935144]
+Correctly predicted examples using weight vector- 347  :  17
+Distinct weight vector- 348  :  [-3.64765294 -3.120562   -3.10223812 -1.58995644]
+Correctly predicted examples using weight vector- 348  :  5
+Distinct weight vector- 349  :  [-3.51247294 -3.014612   -3.33660812 -1.54995844]
+Correctly predicted examples using weight vector- 349  :  34
+Distinct weight vector- 350  :  [-3.98012294 -3.580972   -2.23970812 -1.58340744]
+Correctly predicted examples using weight vector- 350  :  2
+Distinct weight vector- 351  :  [-4.01304294 -3.135452   -2.69688812 -1.48452744]
+Correctly predicted examples using weight vector- 351  :  8
+Distinct weight vector- 352  :  [-3.99693494 -2.489212   -3.53261812 -1.33236744]
+Correctly predicted examples using weight vector- 352  :  11
+Distinct weight vector- 353  :  [-4.13353494 -2.470796   -3.44207912 -1.17430744]
+Correctly predicted examples using weight vector- 353  :  17
+Distinct weight vector- 354  :  [-4.63830494 -3.051026   -2.31767912 -1.21331744]
+Correctly predicted examples using weight vector- 354  :  11
+Distinct weight vector- 355  :  [-4.58207294 -2.950876   -2.54493912 -1.2139223 ]
+Correctly predicted examples using weight vector- 355  :  49
+Distinct weight vector- 356  :  [-4.63402294 -2.624546   -2.85388912 -1.1154323 ]
+Correctly predicted examples using weight vector- 356  :  102
+Distinct weight vector- 357  :  [-4.53285294 -2.534326   -3.08894912 -1.0727183 ]
+Correctly predicted examples using weight vector- 357  :  10
+Distinct weight vector- 358  :  [-4.59861994 -2.814506   -2.71779912 -0.9729793 ]
+Correctly predicted examples using weight vector- 358  :  29
+Distinct weight vector- 359  :  [-4.39684994 -2.634686   -3.01360912 -0.9519893 ]
+Correctly predicted examples using weight vector- 359  :  21
+Distinct weight vector- 360  :  [-4.15767994 -2.179036   -3.51248912 -1.2418593 ]
+Correctly predicted examples using weight vector- 360  :  22
+Distinct weight vector- 361  :  [-3.89288994 -3.192776   -3.37938912 -0.6947893 ]
+Correctly predicted examples using weight vector- 361  :  2
+Distinct weight vector- 362  :  [-3.78651994 -2.823206   -3.79532912 -0.8885793 ]
+Correctly predicted examples using weight vector- 362  :  11
+Distinct weight vector- 363  :  [-3.80381594 -2.941366   -3.65714912 -0.8152193 ]
+Correctly predicted examples using weight vector- 363  :  7
+Distinct weight vector- 364  :  [-3.97485594 -3.419166   -3.03605912 -0.7754793 ]
+Correctly predicted examples using weight vector- 364  :  2
+Distinct weight vector- 365  :  [-4.59117594 -2.548206   -3.05768012 -1.1389293 ]
+Correctly predicted examples using weight vector- 365  :  4
+Distinct weight vector- 366  :  [-4.56974494 -2.617735   -2.96996912 -1.1092763 ]
+Correctly predicted examples using weight vector- 366  :  52
+Distinct weight vector- 367  :  [-4.70861494 -3.105465   -2.32222912 -1.0750973 ]
+Correctly predicted examples using weight vector- 367  :  7
+Distinct weight vector- 368  :  [-4.67097794 -3.187823   -2.24368612 -1.0005733 ]
+Correctly predicted examples using weight vector- 368  :  8
+Distinct weight vector- 369  :  [-4.64658394 -3.040493   -2.38560612 -1.0591083 ]
+Correctly predicted examples using weight vector- 369  :  14
+Distinct weight vector- 370  :  [-4.67950794 -2.594973   -2.84278612 -0.9602283 ]
+Correctly predicted examples using weight vector- 370  :  11
+Distinct weight vector- 371  :  [-4.50075794 -2.116973   -3.35640612 -1.2838483 ]
+Correctly predicted examples using weight vector- 371  :  17
+Distinct weight vector- 372  :  [-4.88148794 -2.926683   -2.33868612 -1.2187643 ]
+Correctly predicted examples using weight vector- 372  :  7
+Distinct weight vector- 373  :  [-4.88108249 -2.863778   -2.40280712 -1.1429473 ]
+Correctly predicted examples using weight vector- 373  :  22
+Distinct weight vector- 374  :  [-4.74925249 -2.673608   -2.73391712 -1.1364402 ]
+Correctly predicted examples using weight vector- 374  :  6
+Distinct weight vector- 375  :  [-4.64731249 -2.563318   -2.96391712 -1.0770452 ]
+Correctly predicted examples using weight vector- 375  :  15
+Distinct weight vector- 376  :  [-4.59551249 -2.537453   -3.04800212 -0.9809272 ]
+Correctly predicted examples using weight vector- 376  :  74
+Distinct weight vector- 377  :  [-4.52108449 -2.914683   -2.88669212 -0.8233872 ]
+Correctly predicted examples using weight vector- 377  :  1
+Distinct weight vector- 378  :  [-4.40028449 -2.507243   -3.36304212 -1.0846772 ]
+Correctly predicted examples using weight vector- 378  :  1
+Distinct weight vector- 379  :  [-4.18085449 -2.052213   -3.86064212 -1.3572172 ]
+Correctly predicted examples using weight vector- 379  :  13
+Distinct weight vector- 380  :  [-4.18338589 -2.069596   -3.87198112 -1.2352372 ]
+Correctly predicted examples using weight vector- 380  :  3
+Distinct weight vector- 381  :  [-4.55911589 -2.898756   -2.84166112 -1.1971782 ]
+Correctly predicted examples using weight vector- 381  :  7
+Distinct weight vector- 382  :  [-4.40101589 -2.811847   -3.07304112 -1.1147662 ]
+Correctly predicted examples using weight vector- 382  :  62
+Distinct weight vector- 383  :  [-4.46702389 -3.134447   -2.69246112 -0.9964062 ]
+Correctly predicted examples using weight vector- 383  :  27
+Distinct weight vector- 384  :  [-4.45489789 -3.1121     -2.73978812 -0.8993822 ]
+Correctly predicted examples using weight vector- 384  :  53
+Distinct weight vector- 385  :  [-4.30593789 -2.76922    -3.14287812 -1.0419722 ]
+Correctly predicted examples using weight vector- 385  :  8
+Distinct weight vector- 386  :  [-4.46214789 -2.99043    -2.71696812 -1.0140002 ]
+Correctly predicted examples using weight vector- 386  :  3
+Distinct weight vector- 387  :  [-4.28883789 -2.59499    -3.19108812 -1.2641702 ]
+Correctly predicted examples using weight vector- 387  :  34
+Distinct weight vector- 388  :  [-4.41451789 -2.74232    -2.90390812 -1.2195172 ]
+Correctly predicted examples using weight vector- 388  :  9
+Distinct weight vector- 389  :  [-4.26374789 -2.54636    -3.20974812 -1.2317602 ]
+Correctly predicted examples using weight vector- 389  :  33
+Distinct weight vector- 390  :  [-4.26072599 -2.65148    -3.06950812 -1.1543912 ]
+Correctly predicted examples using weight vector- 390  :  3
+Distinct weight vector- 391  :  [-4.46138599 -3.32338    -2.16788812 -1.1443927 ]
+Correctly predicted examples using weight vector- 391  :  3
+Distinct weight vector- 392  :  [-4.66423599 -2.9387     -2.23132312 -1.2618927 ]
+Correctly predicted examples using weight vector- 392  :  7
+Distinct weight vector- 393  :  [-4.60829699 -2.96974    -2.21301612 -1.2172397 ]
+Correctly predicted examples using weight vector- 393  :  10
+Distinct weight vector- 394  :  [-4.47311699 -2.86379    -2.44738612 -1.1772417 ]
+Correctly predicted examples using weight vector- 394  :  53
+Distinct weight vector- 395  :  [-4.52506399 -2.53746    -2.75633612 -1.0787497 ]
+Correctly predicted examples using weight vector- 395  :  7
+Distinct weight vector- 396  :  [-4.38005399 -2.17679    -3.16190612 -1.2384097 ]
+Correctly predicted examples using weight vector- 396  :  6
+Distinct weight vector- 397  :  [-4.34571399 -2.164375   -3.19063912 -1.2237557 ]
+Correctly predicted examples using weight vector- 397  :  14
+Distinct weight vector- 398  :  [-4.41778199 -2.840205   -2.60655912 -1.1613867 ]
 Correctly predicted examples using weight vector- 398  :  6
-Distinct weight vector- 399  :  [-3.5262018  -2.793007   -2.7848957  -1.46418818]
-Correctly predicted examples using weight vector- 399  :  21
-Distinct weight vector- 400  :  [-3.52579635 -2.730102   -2.8490167  -1.38837118]
-Correctly predicted examples using weight vector- 400  :  24
-Distinct weight vector- 401  :  [-3.39396635 -2.539932   -3.1801267  -1.38186408]
-Correctly predicted examples using weight vector- 401  :  16
-Distinct weight vector- 402  :  [-3.34216635 -2.514067   -3.2642117  -1.28574608]
-Correctly predicted examples using weight vector- 402  :  6
-Distinct weight vector- 403  :  [-3.70228635 -3.167957   -2.2118717  -1.33471308]
-Correctly predicted examples using weight vector- 403  :  3
-Distinct weight vector- 404  :  [-3.73521035 -2.722437   -2.6690517  -1.23583308]
-Correctly predicted examples using weight vector- 404  :  11
-Distinct weight vector- 405  :  [-3.75250635 -2.840597   -2.5308717  -1.16247308]
-Correctly predicted examples using weight vector- 405  :  78
-Distinct weight vector- 406  :  [-3.58451635 -2.419917   -2.9848517  -1.40178308]
-Correctly predicted examples using weight vector- 406  :  21
-Distinct weight vector- 407  :  [-3.38141635 -2.234717   -3.2860617  -1.40148278]
-Correctly predicted examples using weight vector- 407  :  5
-Distinct weight vector- 408  :  [-3.60481635 -2.937857   -2.5367017  -1.34014878]
+Distinct weight vector- 399  :  [-4.21468199 -2.655005   -2.90776912 -1.1610864 ]
+Correctly predicted examples using weight vector- 399  :  31
+Distinct weight vector- 400  :  [-4.04669199 -2.234325   -3.36174912 -1.4003964 ]
+Correctly predicted examples using weight vector- 400  :  31
+Distinct weight vector- 401  :  [-4.14523199 -2.900425   -2.77929912 -1.3457864 ]
+Correctly predicted examples using weight vector- 401  :  9
+Distinct weight vector- 402  :  [-3.98619199 -2.679215   -3.09112912 -1.3575114 ]
+Correctly predicted examples using weight vector- 402  :  12
+Distinct weight vector- 403  :  [-3.82809199 -2.592306   -3.32250912 -1.2750994 ]
+Correctly predicted examples using weight vector- 403  :  25
+Distinct weight vector- 404  :  [-4.20312199 -3.938166   -1.56318912 -1.5528094 ]
+Correctly predicted examples using weight vector- 404  :  6
+Distinct weight vector- 405  :  [-4.29253099 -3.618256   -1.74537912 -1.8473294 ]
+Correctly predicted examples using weight vector- 405  :  9
+Distinct weight vector- 406  :  [-4.34447799 -3.291926   -2.05432912 -1.7488374 ]
+Correctly predicted examples using weight vector- 406  :  37
+Distinct weight vector- 407  :  [-4.12504799 -2.836896   -2.55192912 -2.0213774 ]
+Correctly predicted examples using weight vector- 407  :  2
+Distinct weight vector- 408  :  [-4.17699799 -2.510566   -2.86087912 -1.9228874 ]
 Correctly predicted examples using weight vector- 408  :  23
-Distinct weight vector- 409  :  [-3.44671635 -2.850948   -2.7680817  -1.25773678]
-Correctly predicted examples using weight vector- 409  :  10
-Distinct weight vector- 410  :  [-3.52931735 -2.554838   -2.8967217  -1.40420678]
-Correctly predicted examples using weight vector- 410  :  31
-Distinct weight vector- 411  :  [-3.99696735 -3.121198   -1.7998217  -1.43765578]
-Correctly predicted examples using weight vector- 411  :  37
-Distinct weight vector- 412  :  [-3.79386735 -2.935998   -2.1010317  -1.43735548]
-Correctly predicted examples using weight vector- 412  :  9
-Distinct weight vector- 413  :  [-3.63482735 -2.714788   -2.4128617  -1.44908048]
-Correctly predicted examples using weight vector- 413  :  15
-Distinct weight vector- 414  :  [-3.50299735 -2.524618   -2.7439717  -1.44257338]
-Correctly predicted examples using weight vector- 414  :  20
-Distinct weight vector- 415  :  [-3.56876435 -2.804798   -2.3728217  -1.34283438]
-Correctly predicted examples using weight vector- 415  :  50
-Distinct weight vector- 416  :  [-3.54437035 -2.657468   -2.5147417  -1.40136938]
-Correctly predicted examples using weight vector- 416  :  5
-Distinct weight vector- 417  :  [-3.54690175 -2.674851   -2.5260807  -1.27938938]
-Correctly predicted examples using weight vector- 417  :  25
-Distinct weight vector- 418  :  [-3.59885175 -2.348521   -2.8350307  -1.18089938]
-Correctly predicted examples using weight vector- 418  :  17
-Distinct weight vector- 419  :  [-3.56451175 -2.336106   -2.8637637  -1.16624538]
-Correctly predicted examples using weight vector- 419  :  17
-Distinct weight vector- 420  :  [-3.44253175 -2.126286   -3.1833037  -1.15340238]
-Correctly predicted examples using weight vector- 420  :  20
-Distinct weight vector- 421  :  [-3.61743175 -2.759486   -2.5734337  -1.13913638]
-Correctly predicted examples using weight vector- 421  :  24
-Distinct weight vector- 422  :  [-3.46847175 -2.416606   -2.9765237  -1.28172638]
-Correctly predicted examples using weight vector- 422  :  19
-Distinct weight vector- 423  :  [-3.77713175 -3.080226   -1.9224737  -1.37090838]
-Correctly predicted examples using weight vector- 423  :  7
-Distinct weight vector- 424  :  [-3.97998175 -2.695546   -1.9859087  -1.48840838]
-Correctly predicted examples using weight vector- 424  :  3
-Distinct weight vector- 425  :  [-3.84480175 -2.589596   -2.2202787  -1.44841038]
-Correctly predicted examples using weight vector- 425  :  33
-Distinct weight vector- 426  :  [-3.69403175 -2.393636   -2.5261187  -1.46065338]
-Correctly predicted examples using weight vector- 426  :  12
-Distinct weight vector- 427  :  [-3.61534175 -3.350266   -2.1474487  -0.71031338]
-Correctly predicted examples using weight vector- 427  :  4
-Distinct weight vector- 428  :  [-3.75480175 -3.118926   -2.1919477  -0.85936338]
-Correctly predicted examples using weight vector- 428  :  1
-Distinct weight vector- 429  :  [-3.71716475 -3.201284   -2.1134047  -0.78483938]
+Distinct weight vector- 409  :  [-4.14265799 -2.498151   -2.88961212 -1.9082334 ]
+Correctly predicted examples using weight vector- 409  :  4
+Distinct weight vector- 410  :  [-4.20866599 -2.820751   -2.50903212 -1.7898734 ]
+Correctly predicted examples using weight vector- 410  :  29
+Distinct weight vector- 411  :  [-4.07683599 -2.630581   -2.84014212 -1.7833663 ]
+Correctly predicted examples using weight vector- 411  :  41
+Distinct weight vector- 412  :  [-3.83766599 -2.174931   -3.33902212 -2.0732363 ]
+Correctly predicted examples using weight vector- 412  :  31
+Distinct weight vector- 413  :  [-4.34442599 -2.693701   -2.29636212 -2.1599613 ]
+Correctly predicted examples using weight vector- 413  :  4
+Distinct weight vector- 414  :  [-4.26573599 -3.650331   -1.91769212 -1.4096213 ]
+Correctly predicted examples using weight vector- 414  :  31
+Distinct weight vector- 415  :  [-4.34833699 -3.354221   -2.04633212 -1.5560913 ]
+Correctly predicted examples using weight vector- 415  :  2
+Distinct weight vector- 416  :  [-4.29752399 -3.306422   -2.24437212 -1.4983773 ]
+Correctly predicted examples using weight vector- 416  :  3
+Distinct weight vector- 417  :  [-4.50281399 -2.922572   -2.32391612 -1.6197573 ]
+Correctly predicted examples using weight vector- 417  :  11
+Distinct weight vector- 418  :  [-4.52010999 -3.040732   -2.18573612 -1.5463973 ]
+Correctly predicted examples using weight vector- 418  :  5
+Distinct weight vector- 419  :  [-4.39930999 -2.633292   -2.66208612 -1.8076873 ]
+Correctly predicted examples using weight vector- 419  :  39
+Distinct weight vector- 420  :  [-4.34337099 -2.664332   -2.64377912 -1.7630343 ]
+Correctly predicted examples using weight vector- 420  :  3
+Distinct weight vector- 421  :  [-4.26894299 -3.041562   -2.48246912 -1.6054943 ]
+Correctly predicted examples using weight vector- 421  :  3
+Distinct weight vector- 422  :  [-4.12393299 -2.680892   -2.88803912 -1.7651543 ]
+Correctly predicted examples using weight vector- 422  :  28
+Distinct weight vector- 423  :  [-4.07213299 -2.655027   -2.97212412 -1.6690363 ]
+Correctly predicted examples using weight vector- 423  :  4
+Distinct weight vector- 424  :  [-3.95015299 -2.445207   -3.29166412 -1.6561933 ]
+Correctly predicted examples using weight vector- 424  :  4
+Distinct weight vector- 425  :  [-4.28899299 -3.266707   -2.25851412 -1.5580063 ]
+Correctly predicted examples using weight vector- 425  :  5
+Distinct weight vector- 426  :  [-4.26459899 -3.119377   -2.40043412 -1.6165413 ]
+Correctly predicted examples using weight vector- 426  :  47
+Distinct weight vector- 427  :  [-4.31654899 -2.793047   -2.70938412 -1.5180513 ]
+Correctly predicted examples using weight vector- 427  :  29
+Distinct weight vector- 428  :  [-4.30442299 -2.7707     -2.75671112 -1.4210273 ]
+Correctly predicted examples using weight vector- 428  :  16
+Distinct weight vector- 429  :  [-4.28199099 -2.822847   -2.79709712 -1.3008573 ]
 Correctly predicted examples using weight vector- 429  :  1
-Distinct weight vector- 430  :  [-3.64309775 -3.028294   -2.4330347  -0.79940938]
-Correctly predicted examples using weight vector- 430  :  17
-Distinct weight vector- 431  :  [-3.59129775 -3.002429   -2.5171197  -0.70329138]
-Correctly predicted examples using weight vector- 431  :  9
-Distinct weight vector- 432  :  [-3.48935775 -2.892139   -2.7471197  -0.64389638]
-Correctly predicted examples using weight vector- 432  :  1
-Distinct weight vector- 433  :  [-3.38298775 -2.522569   -3.1630597  -0.83768638]
-Correctly predicted examples using weight vector- 433  :  3
-Distinct weight vector- 434  :  [-3.78471775 -3.353799   -1.9175897  -0.98143638]
-Correctly predicted examples using weight vector- 434  :  1
-Distinct weight vector- 435  :  [-3.88291075 -3.074239   -2.0409997  -1.13811638]
-Correctly predicted examples using weight vector- 435  :  11
-Distinct weight vector- 436  :  [-3.73790075 -2.713569   -2.4465697  -1.29777638]
-Correctly predicted examples using weight vector- 436  :  9
-Distinct weight vector- 437  :  [-3.78985075 -2.387239   -2.7555197  -1.19928638]
-Correctly predicted examples using weight vector- 437  :  5
-Distinct weight vector- 438  :  [-3.78682885 -2.492359   -2.6152797  -1.12191738]
-Correctly predicted examples using weight vector- 438  :  1
-Distinct weight vector- 439  :  [-3.80412485 -2.610519   -2.4770997  -1.04855738]
-Correctly predicted examples using weight vector- 439  :  34
-Distinct weight vector- 440  :  [-3.81584085 -2.550097   -2.5156867  -1.05446388]
-Correctly predicted examples using weight vector- 440  :  11
-Distinct weight vector- 441  :  [-3.71467085 -2.459877   -2.7507467  -1.01174988]
-Correctly predicted examples using weight vector- 441  :  48
-Distinct weight vector- 442  :  [-3.54668085 -2.039197   -3.2047267  -1.25105988]
-Correctly predicted examples using weight vector- 442  :  32
-Distinct weight vector- 443  :  [-3.68555085 -2.526927   -2.5569867  -1.21688088]
-Correctly predicted examples using weight vector- 443  :  3
-Distinct weight vector- 444  :  [-3.48378085 -2.347107   -2.8527967  -1.19589088]
-Correctly predicted examples using weight vector- 444  :  22
-Distinct weight vector- 445  :  [-3.60045085 -2.489477   -2.5603867  -1.12977188]
-Correctly predicted examples using weight vector- 445  :  5
-Distinct weight vector- 446  :  [-3.36128085 -2.033827   -3.0592667  -1.41964188]
-Correctly predicted examples using weight vector- 446  :  60
-Distinct weight vector- 447  :  [-3.87344085 -2.565007   -2.0208067  -1.52576188]
-Correctly predicted examples using weight vector- 447  :  3
-Distinct weight vector- 448  :  [-3.70013085 -2.169567   -2.4949267  -1.77593188]
-Correctly predicted examples using weight vector- 448  :  20
-Distinct weight vector- 449  :  [-3.95386085 -2.865467   -1.6143867  -1.62304188]
-Correctly predicted examples using weight vector- 449  :  8
-Distinct weight vector- 450  :  [-3.98678085 -2.419947   -2.0715667  -1.52416188]
+Distinct weight vector- 430  :  [-4.18082099 -2.732627   -3.03215712 -1.2581433 ]
+Correctly predicted examples using weight vector- 430  :  18
+Distinct weight vector- 431  :  [-4.33404099 -3.242287   -2.36436712 -1.2406453 ]
+Correctly predicted examples using weight vector- 431  :  6
+Distinct weight vector- 432  :  [-4.22767099 -2.872717   -2.78030712 -1.4344353 ]
+Correctly predicted examples using weight vector- 432  :  2
+Distinct weight vector- 433  :  [-4.05436099 -2.477277   -3.25442712 -1.6846053 ]
+Correctly predicted examples using weight vector- 433  :  1
+Distinct weight vector- 434  :  [-4.05133909 -2.582397   -3.11418712 -1.6072363 ]
+Correctly predicted examples using weight vector- 434  :  2
+Distinct weight vector- 435  :  [-3.94939909 -2.472107   -3.34418712 -1.5478413 ]
+Correctly predicted examples using weight vector- 435  :  1
+Distinct weight vector- 436  :  [-4.02686009 -2.659787   -3.10395712 -1.4346513 ]
+Correctly predicted examples using weight vector- 436  :  7
+Distinct weight vector- 437  :  [-4.14353009 -2.802157   -2.81154712 -1.3685323 ]
+Correctly predicted examples using weight vector- 437  :  6
+Distinct weight vector- 438  :  [-3.94043009 -2.616957   -3.11275712 -1.368232  ]
+Correctly predicted examples using weight vector- 438  :  11
+Distinct weight vector- 439  :  [-3.94002464 -2.554052   -3.17687812 -1.292415  ]
+Correctly predicted examples using weight vector- 439  :  61
+Distinct weight vector- 440  :  [-3.73825464 -2.374232   -3.47268812 -1.271425  ]
+Correctly predicted examples using weight vector- 440  :  19
+Distinct weight vector- 441  :  [-3.70061764 -2.45659    -3.39414512 -1.196901  ]
+Correctly predicted examples using weight vector- 441  :  3
+Distinct weight vector- 442  :  [-3.67918664 -2.526119   -3.30643412 -1.167248  ]
+Correctly predicted examples using weight vector- 442  :  1
+Distinct weight vector- 443  :  [-3.74495364 -2.806299   -2.93528412 -1.067509  ]
+Correctly predicted examples using weight vector- 443  :  1
+Distinct weight vector- 444  :  [-3.87063364 -2.953629   -2.64810412 -1.022856  ]
+Correctly predicted examples using weight vector- 444  :  28
+Distinct weight vector- 445  :  [-3.92258364 -2.627299   -2.95705412 -0.924366  ]
+Correctly predicted examples using weight vector- 445  :  31
+Distinct weight vector- 446  :  [-3.78740364 -2.521349   -3.19142412 -0.884368  ]
+Correctly predicted examples using weight vector- 446  :  84
+Distinct weight vector- 447  :  [-3.62836364 -2.300139   -3.50325412 -0.896093  ]
+Correctly predicted examples using weight vector- 447  :  11
+Distinct weight vector- 448  :  [-3.70565164 -3.044869   -2.85405412 -0.859974  ]
+Correctly predicted examples using weight vector- 448  :  7
+Distinct weight vector- 449  :  [-3.71736764 -2.984447   -2.89264112 -0.8658805 ]
+Correctly predicted examples using weight vector- 449  :  16
+Distinct weight vector- 450  :  [-3.56840764 -2.641567   -3.29573112 -1.0084705 ]
 Correctly predicted examples using weight vector- 450  :  15
-Distinct weight vector- 451  :  [-3.9863754  -2.357042   -2.1356877  -1.44834488]
-Correctly predicted examples using weight vector- 451  :  6
-Distinct weight vector- 452  :  [-4.0562544  -2.694752   -1.7235777  -1.29791488]
-Correctly predicted examples using weight vector- 452  :  69
-Distinct weight vector- 453  :  [-4.0348234  -2.764281   -1.6358667  -1.26826188]
-Correctly predicted examples using weight vector- 453  :  18
-Distinct weight vector- 454  :  [-3.9120334  -2.361191   -2.1002167  -1.65951188]
-Correctly predicted examples using weight vector- 454  :  5
-Distinct weight vector- 455  :  [-3.7912334  -1.953751   -2.5765667  -1.92080188]
-Correctly predicted examples using weight vector- 455  :  12
-Distinct weight vector- 456  :  [-3.7791074  -1.931404   -2.6238937  -1.82377788]
-Correctly predicted examples using weight vector- 456  :  2
-Distinct weight vector- 457  :  [-3.7231684  -1.962444   -2.6055867  -1.77912488]
-Correctly predicted examples using weight vector- 457  :  26
-Distinct weight vector- 458  :  [-4.0981984  -3.308304   -0.8462667  -2.05683488]
-Correctly predicted examples using weight vector- 458  :  13
-Distinct weight vector- 459  :  [-3.9194484  -2.830304   -1.3598867  -2.38045488]
+Distinct weight vector- 451  :  [-4.00613764 -3.193237   -2.20183112 -1.0492905 ]
+Correctly predicted examples using weight vector- 451  :  10
+Distinct weight vector- 452  :  [-4.03906164 -2.747717   -2.65901112 -0.9504105 ]
+Correctly predicted examples using weight vector- 452  :  8
+Distinct weight vector- 453  :  [-3.88829164 -2.551757   -2.96485112 -0.9626535 ]
+Correctly predicted examples using weight vector- 453  :  13
+Distinct weight vector- 454  :  [-4.04450164 -2.772967   -2.53894112 -0.9346815 ]
+Correctly predicted examples using weight vector- 454  :  14
+Distinct weight vector- 455  :  [-4.04703304 -2.79035    -2.55028012 -0.8127015 ]
+Correctly predicted examples using weight vector- 455  :  6
+Distinct weight vector- 456  :  [-3.80786304 -2.3347     -3.04916012 -1.1025715 ]
+Correctly predicted examples using weight vector- 456  :  95
+Distinct weight vector- 457  :  [-3.87363004 -2.61488    -2.67801012 -1.0028325 ]
+Correctly predicted examples using weight vector- 457  :  7
+Distinct weight vector- 458  :  [-3.70564004 -2.1942     -3.13199012 -1.2421425 ]
+Correctly predicted examples using weight vector- 458  :  16
+Distinct weight vector- 459  :  [-3.86593004 -2.233103   -2.96999012 -1.0511125 ]
 Correctly predicted examples using weight vector- 459  :  6
-Distinct weight vector- 460  :  [-3.8139284  -2.711734   -1.6239967  -2.36942188]
-Correctly predicted examples using weight vector- 460  :  11
-Distinct weight vector- 461  :  [-3.7352384  -3.668364   -1.2453267  -1.61908188]
-Correctly predicted examples using weight vector- 461  :  39
-Distinct weight vector- 462  :  [-3.7057184  -3.179804   -1.7602267  -2.24231188]
-Correctly predicted examples using weight vector- 462  :  6
-Distinct weight vector- 463  :  [-3.4665484  -2.724154   -2.2591067  -2.53218188]
-Correctly predicted examples using weight vector- 463  :  1
-Distinct weight vector- 464  :  [-3.5323154  -3.004334   -1.8879567  -2.43244288]
-Correctly predicted examples using weight vector- 464  :  18
-Distinct weight vector- 465  :  [-3.7351654  -2.619654   -1.9513917  -2.54994288]
-Correctly predicted examples using weight vector- 465  :  37
-Distinct weight vector- 466  :  [-3.5564154  -2.141654   -2.4650117  -2.87356288]
-Correctly predicted examples using weight vector- 466  :  4
-Distinct weight vector- 467  :  [-3.8513954  -2.968954   -1.4385517  -2.75727288]
-Correctly predicted examples using weight vector- 467  :  5
-Distinct weight vector- 468  :  [-3.6834054  -2.548274   -1.8925317  -2.99658288]
-Correctly predicted examples using weight vector- 468  :  3
-Distinct weight vector- 469  :  [-3.4186154  -3.562014   -1.7594317  -2.44951288]
-Correctly predicted examples using weight vector- 469  :  5
-Distinct weight vector- 470  :  [-3.3445484  -3.389024   -2.0790617  -2.46408288]
-Correctly predicted examples using weight vector- 470  :  19
-Distinct weight vector- 471  :  [-3.1414484  -3.203824   -2.3802717  -2.46378258]
-Correctly predicted examples using weight vector- 471  :  5
-Distinct weight vector- 472  :  [-3.1384265  -3.308944   -2.2400317  -2.38641358]
-Correctly predicted examples using weight vector- 472  :  33
-Distinct weight vector- 473  :  [-3.1903765  -2.982614   -2.5489817  -2.28792358]
-Correctly predicted examples using weight vector- 473  :  13
-Distinct weight vector- 474  :  [-3.3269765  -2.964198   -2.4584427  -2.12986358]
-Correctly predicted examples using weight vector- 474  :  2
-Distinct weight vector- 475  :  [-3.1688765  -2.877289   -2.6898227  -2.04745158]
-Correctly predicted examples using weight vector- 475  :  7
-Distinct weight vector- 476  :  [-3.2096805  -2.823075   -2.7425477  -1.98159158]
-Correctly predicted examples using weight vector- 476  :  2
-Distinct weight vector- 477  :  [-3.1720435  -2.905433   -2.6640047  -1.90706758]
-Correctly predicted examples using weight vector- 477  :  46
-Distinct weight vector- 478  :  [-3.0708735  -2.815213   -2.8990647  -1.86435358]
-Correctly predicted examples using weight vector- 478  :  12
-Distinct weight vector- 479  :  [-3.3939235  -3.536563   -1.7347347  -1.95896658]
+Distinct weight vector- 460  :  [-3.93580904 -2.570813   -2.55788012 -0.9006825 ]
+Correctly predicted examples using weight vector- 460  :  22
+Distinct weight vector- 461  :  [-3.73270904 -2.385613   -2.85909012 -0.9003822 ]
+Correctly predicted examples using weight vector- 461  :  16
+Distinct weight vector- 462  :  [-4.04693904 -3.689263   -1.29136012 -0.9665472 ]
+Correctly predicted examples using weight vector- 462  :  29
+Distinct weight vector- 463  :  [-4.20492904 -3.218503   -2.08322012 -0.8116772 ]
+Correctly predicted examples using weight vector- 463  :  5
+Distinct weight vector- 464  :  [-4.25687904 -2.892173   -2.39217012 -0.7131872 ]
+Correctly predicted examples using weight vector- 464  :  9
+Distinct weight vector- 465  :  [-4.30882904 -2.565843   -2.70112012 -0.6146972 ]
+Correctly predicted examples using weight vector- 465  :  1
+Distinct weight vector- 466  :  [-4.18684904 -2.356023   -3.02066012 -0.6018542 ]
+Correctly predicted examples using weight vector- 466  :  5
+Distinct weight vector- 467  :  [-4.02780904 -2.134813   -3.33249012 -0.6135792 ]
+Correctly predicted examples using weight vector- 467  :  10
+Distinct weight vector- 468  :  [-4.36664904 -2.956313   -2.29934012 -0.5153922 ]
+Correctly predicted examples using weight vector- 468  :  15
+Distinct weight vector- 469  :  [-4.33712904 -2.467753   -2.81424012 -1.1386222 ]
+Correctly predicted examples using weight vector- 469  :  1
+Distinct weight vector- 470  :  [-4.33966044 -2.485136   -2.82557912 -1.0166422 ]
+Correctly predicted examples using weight vector- 470  :  13
+Distinct weight vector- 471  :  [-4.19465044 -2.124466   -3.23114912 -1.1763022 ]
+Correctly predicted examples using weight vector- 471  :  10
+Distinct weight vector- 472  :  [-4.55146044 -2.945766   -2.22284912 -1.0795372 ]
+Correctly predicted examples using weight vector- 472  :  5
+Distinct weight vector- 473  :  [-4.47770044 -2.460516   -2.70270912 -1.6461272 ]
+Correctly predicted examples using weight vector- 473  :  18
+Distinct weight vector- 474  :  [-4.34252044 -2.354566   -2.93707912 -1.6061292 ]
+Correctly predicted examples using weight vector- 474  :  19
+Distinct weight vector- 475  :  [-4.14075044 -2.174746   -3.23288912 -1.5851392 ]
+Correctly predicted examples using weight vector- 475  :  19
+Distinct weight vector- 476  :  [-4.54293044 -3.005146   -1.97738912 -1.7361292 ]
+Correctly predicted examples using weight vector- 476  :  12
+Distinct weight vector- 477  :  [-4.47244044 -2.987972   -2.15597912 -1.7000102 ]
+Correctly predicted examples using weight vector- 477  :  26
+Distinct weight vector- 478  :  [-4.43480344 -3.07033    -2.07743612 -1.6254862 ]
+Correctly predicted examples using weight vector- 478  :  33
+Distinct weight vector- 479  :  [-4.41237144 -3.122477   -2.11782212 -1.5053162 ]
 Correctly predicted examples using weight vector- 479  :  1
-Distinct weight vector- 480  :  [-3.2489135  -3.175893   -2.1403047  -2.11862658]
-Correctly predicted examples using weight vector- 480  :  26
-Distinct weight vector- 481  :  [-3.3008635  -2.849563   -2.4492547  -2.02013658]
-Correctly predicted examples using weight vector- 481  :  24
-Distinct weight vector- 482  :  [-3.1275535  -2.454123   -2.9233747  -2.27030658]
-Correctly predicted examples using weight vector- 482  :  28
-Distinct weight vector- 483  :  [-3.3396535  -2.459711   -2.7284747  -2.13500658]
-Correctly predicted examples using weight vector- 483  :  13
-Distinct weight vector- 484  :  [-3.4563235  -2.602081   -2.4360647  -2.06888758]
-Correctly predicted examples using weight vector- 484  :  25
-Distinct weight vector- 485  :  [-3.3343435  -2.392261   -2.7556047  -2.05604458]
-Correctly predicted examples using weight vector- 485  :  16
-Distinct weight vector- 486  :  [-3.1325735  -2.212441   -3.0514147  -2.03505458]
-Correctly predicted examples using weight vector- 486  :  11
-Distinct weight vector- 487  :  [-3.1111425  -2.28197    -2.9637037  -2.00540158]
-Correctly predicted examples using weight vector- 487  :  11
-Distinct weight vector- 488  :  [-3.3373125  -2.75625    -2.3288137  -1.99423958]
+Distinct weight vector- 480  :  [-4.46431844 -2.796147   -2.42677212 -1.4068242 ]
+Correctly predicted examples using weight vector- 480  :  1
+Distinct weight vector- 481  :  [-4.30621844 -2.709238   -2.65815212 -1.3244122 ]
+Correctly predicted examples using weight vector- 481  :  4
+Distinct weight vector- 482  :  [-4.25441844 -2.683373   -2.74223712 -1.2282942 ]
+Correctly predicted examples using weight vector- 482  :  16
+Distinct weight vector- 483  :  [-4.23002444 -2.536043   -2.88415712 -1.2868292 ]
+Correctly predicted examples using weight vector- 483  :  21
+Distinct weight vector- 484  :  [-4.01059444 -2.081013   -3.38175712 -1.5593692 ]
+Correctly predicted examples using weight vector- 484  :  26
+Distinct weight vector- 485  :  [-4.02789044 -2.199173   -3.24357712 -1.4860092 ]
+Correctly predicted examples using weight vector- 485  :  4
+Distinct weight vector- 486  :  [-4.17022044 -2.298085   -3.00771712 -1.4465282 ]
+Correctly predicted examples using weight vector- 486  :  5
+Distinct weight vector- 487  :  [-4.14878944 -2.367614   -2.92000612 -1.4168752 ]
+Correctly predicted examples using weight vector- 487  :  7
+Distinct weight vector- 488  :  [-4.30200944 -2.877274   -2.25221612 -1.3993772 ]
 Correctly predicted examples using weight vector- 488  :  7
-Distinct weight vector- 489  :  [-3.1883525  -2.41337    -2.7319037  -2.13682958]
-Correctly predicted examples using weight vector- 489  :  10
-Distinct weight vector- 490  :  [-3.5484725  -3.06726    -1.6795637  -2.18579658]
-Correctly predicted examples using weight vector- 490  :  5
-Distinct weight vector- 491  :  [-3.4922405  -2.96711    -1.9068237  -2.18640144]
-Correctly predicted examples using weight vector- 491  :  59
-Distinct weight vector- 492  :  [-3.5441905  -2.64078    -2.2157737  -2.08791144]
-Correctly predicted examples using weight vector- 492  :  16
-Distinct weight vector- 493  :  [-3.4882515  -2.67182    -2.1974667  -2.04325844]
-Correctly predicted examples using weight vector- 493  :  10
-Distinct weight vector- 494  :  [-3.5096455  -2.740107   -2.1878135  -1.92360844]
-Correctly predicted examples using weight vector- 494  :  24
-Distinct weight vector- 495  :  [-3.4852515  -2.592777   -2.3297335  -1.98214344]
-Correctly predicted examples using weight vector- 495  :  21
-Distinct weight vector- 496  :  [-3.3344815  -2.396817   -2.6355735  -1.99438644]
-Correctly predicted examples using weight vector- 496  :  19
-Distinct weight vector- 497  :  [-3.3001415  -2.384402   -2.6643065  -1.97973244]
-Correctly predicted examples using weight vector- 497  :  48
-Distinct weight vector- 498  :  [-3.3700205  -2.722112   -2.2521965  -1.82930244]
-Correctly predicted examples using weight vector- 498  :  10
-Distinct weight vector- 499  :  [-3.3725519  -2.739495   -2.2635355  -1.70732244]
+Distinct weight vector- 489  :  [-4.30160399 -2.814369   -2.31633712 -1.3235602 ]
+Correctly predicted examples using weight vector- 489  :  1
+Distinct weight vector- 490  :  [-4.19966399 -2.704079   -2.54633712 -1.2641652 ]
+Correctly predicted examples using weight vector- 490  :  16
+Distinct weight vector- 491  :  [-4.21137999 -2.643657   -2.58492412 -1.2700717 ]
+Correctly predicted examples using weight vector- 491  :  46
+Distinct weight vector- 492  :  [-4.06060999 -2.447697   -2.89076412 -1.2823147 ]
+Correctly predicted examples using weight vector- 492  :  8
+Distinct weight vector- 493  :  [-4.13807099 -2.635377   -2.65053412 -1.1691247 ]
+Correctly predicted examples using weight vector- 493  :  12
+Distinct weight vector- 494  :  [-4.00624099 -2.445207   -2.98164412 -1.1626176 ]
+Correctly predicted examples using weight vector- 494  :  47
+Distinct weight vector- 495  :  [-3.99411499 -2.42286    -3.02897112 -1.0655936 ]
+Correctly predicted examples using weight vector- 495  :  2
+Distinct weight vector- 496  :  [-3.93817599 -2.4539     -3.01066412 -1.0209406 ]
+Correctly predicted examples using weight vector- 496  :  2
+Distinct weight vector- 497  :  [-3.93515409 -2.55902    -2.87042412 -0.9435716 ]
+Correctly predicted examples using weight vector- 497  :  1
+Distinct weight vector- 498  :  [-3.75640409 -2.08102    -3.38404412 -1.2671916 ]
+Correctly predicted examples using weight vector- 498  :  17
+Distinct weight vector- 499  :  [-3.97723409 -2.99171    -2.48413412 -1.2955976 ]
 Correctly predicted examples using weight vector- 499  :  4
-Distinct weight vector- 500  :  [-3.2373719  -2.633545   -2.4979055  -1.66732444]
-Correctly predicted examples using weight vector- 500  :  1
-Distinct weight vector- 501  :  [-3.23696645 -2.57064    -2.5620265  -1.59150744]
-Correctly predicted examples using weight vector- 501  :  4
-Distinct weight vector- 502  :  [-3.18516645 -2.544775   -2.6461115  -1.49538944]
-Correctly predicted examples using weight vector- 502  :  12
-Distinct weight vector- 503  :  [-3.34545645 -2.583678   -2.4841115  -1.30435944]
-Correctly predicted examples using weight vector- 503  :  13
-Distinct weight vector- 504  :  [-3.21362645 -2.393508   -2.8152215  -1.29785234]
-Correctly predicted examples using weight vector- 504  :  51
-Distinct weight vector- 505  :  [-3.68693645 -3.011398   -1.6764215  -1.40526234]
-Correctly predicted examples using weight vector- 505  :  6
-Distinct weight vector- 506  :  [-3.69865245 -2.950976   -1.7150085  -1.41116884]
-Correctly predicted examples using weight vector- 506  :  13
-Distinct weight vector- 507  :  [-3.60824545 -2.613896   -2.1648785  -1.78081884]
-Correctly predicted examples using weight vector- 507  :  18
-Distinct weight vector- 508  :  [-3.64116545 -2.168376   -2.6220585  -1.68193884]
-Correctly predicted examples using weight vector- 508  :  64
-Distinct weight vector- 509  :  [-3.62903945 -2.146029   -2.6693855  -1.58491484]
-Correctly predicted examples using weight vector- 509  :  4
-Distinct weight vector- 510  :  [-3.75471945 -2.293359   -2.3822055  -1.54026184]
-Correctly predicted examples using weight vector- 510  :  26
-Distinct weight vector- 511  :  [-3.53528945 -1.838329   -2.8798055  -1.81280184]
-Correctly predicted examples using weight vector- 511  :  5
-Distinct weight vector- 512  :  [-3.98389945 -3.167219   -1.1489355  -2.13474184]
-Correctly predicted examples using weight vector- 512  :  6
-Distinct weight vector- 513  :  [-3.88195945 -3.056929   -1.3789355  -2.07534684]
-Correctly predicted examples using weight vector- 513  :  12
-Distinct weight vector- 514  :  [-3.85952745 -3.109076   -1.4193215  -1.95517684]
-Correctly predicted examples using weight vector- 514  :  3
-Distinct weight vector- 515  :  [-4.06874745 -2.428076   -2.2656815  -1.89496084]
-Correctly predicted examples using weight vector- 515  :  3
-Distinct weight vector- 516  :  [-3.90970745 -2.206866   -2.5775115  -1.90668584]
-Correctly predicted examples using weight vector- 516  :  16
-Distinct weight vector- 517  :  [-3.97571545 -2.529466   -2.1969315  -1.78832584]
-Correctly predicted examples using weight vector- 517  :  30
-Distinct weight vector- 518  :  [-3.80772545 -2.108786   -2.6509115  -2.02763584]
-Correctly predicted examples using weight vector- 518  :  54
-Distinct weight vector- 519  :  [-3.97592545 -2.789996   -1.9369315  -1.89440584]
-Correctly predicted examples using weight vector- 519  :  26
-Distinct weight vector- 520  :  [-4.00884545 -2.344476   -2.3941115  -1.79552584]
-Correctly predicted examples using weight vector- 520  :  48
-Distinct weight vector- 521  :  [-3.99671945 -2.322129   -2.4414385  -1.69850184]
-Correctly predicted examples using weight vector- 521  :  19
-Distinct weight vector- 522  :  [-3.89477945 -2.211839   -2.6714385  -1.63910684]
-Correctly predicted examples using weight vector- 522  :  3
-Distinct weight vector- 523  :  [-3.73667945 -2.12493    -2.9028185  -1.55669484]
-Correctly predicted examples using weight vector- 523  :  7
-Distinct weight vector- 524  :  [-4.11170945 -3.47079    -1.1434985  -1.83440484]
-Correctly predicted examples using weight vector- 524  :  3
-Distinct weight vector- 525  :  [-4.31699945 -3.08694    -1.2230425  -1.95578484]
-Correctly predicted examples using weight vector- 525  :  2
-Distinct weight vector- 526  :  [-4.45337945 -2.60935    -2.0648625  -1.76742484]
-Correctly predicted examples using weight vector- 526  :  1
-Distinct weight vector- 527  :  [-4.41574245 -2.691708   -1.9863195  -1.69290084]
-Correctly predicted examples using weight vector- 527  :  22
-Distinct weight vector- 528  :  [-4.26678245 -2.348828   -2.3894095  -1.83549084]
-Correctly predicted examples using weight vector- 528  :  50
-Distinct weight vector- 529  :  [-4.23244245 -2.336413   -2.4181425  -1.82083684]
-Correctly predicted examples using weight vector- 529  :  18
-Distinct weight vector- 530  :  [-4.232037   -2.273508   -2.4822635  -1.74501984]
-Correctly predicted examples using weight vector- 530  :  9
-Distinct weight vector- 531  :  [-3.967247   -3.287248   -2.3491635  -1.19794984]
-Correctly predicted examples using weight vector- 531  :  3
-Distinct weight vector- 532  :  [-3.728077   -2.831598   -2.8480435  -1.48781984]
-Correctly predicted examples using weight vector- 532  :  1
-Distinct weight vector- 533  :  [-3.577307   -2.635638   -3.1538835  -1.50006284]
-Correctly predicted examples using weight vector- 533  :  29
-Distinct weight vector- 534  :  [-3.816287   -2.714065   -2.8524735  -1.42385784]
-Correctly predicted examples using weight vector- 534  :  3
-Distinct weight vector- 535  :  [-3.760348   -2.745105   -2.8341665  -1.37920484]
-Correctly predicted examples using weight vector- 535  :  65
-Distinct weight vector- 536  :  [-3.628518   -2.554935   -3.1652765  -1.37269774]
-Correctly predicted examples using weight vector- 536  :  25
-Distinct weight vector- 537  :  [-3.705979   -2.742615   -2.9250465  -1.25950774]
-Correctly predicted examples using weight vector- 537  :  2
-Distinct weight vector- 538  :  [-3.844849   -3.230345   -2.2773065  -1.22532874]
-Correctly predicted examples using weight vector- 538  :  8
-Distinct weight vector- 539  :  [-3.788617  -3.130195  -2.5045665 -1.2259336]
-Correctly predicted examples using weight vector- 539  :  14
-Distinct weight vector- 540  :  [-3.840564  -2.803865  -2.8135165 -1.1274416]
-Correctly predicted examples using weight vector- 540  :  5
-Distinct weight vector- 541  :  [-3.705384  -2.697915  -3.0478865 -1.0874436]
-Correctly predicted examples using weight vector- 541  :  13
-Distinct weight vector- 542  :  [-3.858604  -3.207575  -2.3800965 -1.0699456]
-Correctly predicted examples using weight vector- 542  :  4
-Distinct weight vector- 543  :  [-3.90942   -2.920775  -2.5611765 -1.2960656]
-Correctly predicted examples using weight vector- 543  :  2
-Distinct weight vector- 544  :  [-3.887989  -2.990304  -2.4734655 -1.2664126]
-Correctly predicted examples using weight vector- 544  :  3
-Distinct weight vector- 545  :  [-3.765199  -2.587214  -2.9378155 -1.6576626]
-Correctly predicted examples using weight vector- 545  :  4
-Distinct weight vector- 546  :  [-3.620189  -2.226544  -3.3433855 -1.8173226]
-Correctly predicted examples using weight vector- 546  :  9
-Distinct weight vector- 547  :  [-3.814279  -3.095024  -2.4278855 -1.7232736]
+Distinct weight vector- 500  :  [-4.01015809 -2.54619    -2.94131412 -1.1967176 ]
+Correctly predicted examples using weight vector- 500  :  57
+Distinct weight vector- 501  :  [-3.83684809 -2.15075    -3.41543412 -1.4468876 ]
+Correctly predicted examples using weight vector- 501  :  45
+Distinct weight vector- 502  :  [-4.19669809 -3.51668    -1.65491412 -1.6961576 ]
+Correctly predicted examples using weight vector- 502  :  2
+Distinct weight vector- 503  :  [-4.13596709 -3.12124    -2.13211412 -2.1446876 ]
+Correctly predicted examples using weight vector- 503  :  5
+Distinct weight vector- 504  :  [-4.10162709 -3.108825   -2.16084712 -2.1300336 ]
+Correctly predicted examples using weight vector- 504  :  6
+Distinct weight vector- 505  :  [-4.00045709 -3.018605   -2.39590712 -2.0873196 ]
+Correctly predicted examples using weight vector- 505  :  3
+Distinct weight vector- 506  :  [-3.89493709 -2.900035   -2.66001712 -2.0762866 ]
+Correctly predicted examples using weight vector- 506  :  103
+Distinct weight vector- 507  :  [-3.92785709 -2.454515   -3.11719712 -1.9774066 ]
+Correctly predicted examples using weight vector- 507  :  10
+Distinct weight vector- 508  :  [-3.94925109 -2.522802   -3.10754392 -1.8577566 ]
+Correctly predicted examples using weight vector- 508  :  3
+Distinct weight vector- 509  :  [-4.16135109 -2.52839    -2.91264392 -1.7224566 ]
+Correctly predicted examples using weight vector- 509  :  1
+Distinct weight vector- 510  :  [-4.08266109 -3.48502    -2.53397392 -0.9721166 ]
+Correctly predicted examples using weight vector- 510  :  14
+Distinct weight vector- 511  :  [-3.93370109 -3.14214    -2.93706392 -1.1147066 ]
+Correctly predicted examples using weight vector- 511  :  2
+Distinct weight vector- 512  :  [-4.13655109 -2.75746    -3.00049892 -1.2322066 ]
+Correctly predicted examples using weight vector- 512  :  40
+Distinct weight vector- 513  :  [-3.96856109 -2.33678    -3.45447892 -1.4715166 ]
+Correctly predicted examples using weight vector- 513  :  30
+Distinct weight vector- 514  :  [-3.88987109 -3.29341    -3.07580892 -0.7211766 ]
+Correctly predicted examples using weight vector- 514  :  17
+Distinct weight vector- 515  :  [-3.86844009 -3.362939   -2.98809792 -0.6915236 ]
+Correctly predicted examples using weight vector- 515  :  10
+Distinct weight vector- 516  :  [-3.79468009 -2.877689   -3.46795792 -1.2581136 ]
+Correctly predicted examples using weight vector- 516  :  4
+Distinct weight vector- 517  :  [-4.23241009 -3.429359   -2.37405792 -1.2989336 ]
+Correctly predicted examples using weight vector- 517  :  4
+Distinct weight vector- 518  :  [-4.01298009 -2.974329   -2.87165792 -1.5714736 ]
+Correctly predicted examples using weight vector- 518  :  5
+Distinct weight vector- 519  :  [-4.06493009 -2.647999   -3.18060792 -1.4729836 ]
+Correctly predicted examples using weight vector- 519  :  9
+Distinct weight vector- 520  :  [-3.91597009 -2.305119   -3.58369792 -1.6155736 ]
+Correctly predicted examples using weight vector- 520  :  4
+Distinct weight vector- 521  :  [-4.28558009 -3.672909   -1.82574792 -1.8773836 ]
+Correctly predicted examples using weight vector- 521  :  4
+Distinct weight vector- 522  :  [-4.25124009 -3.660494   -1.85448092 -1.8627296 ]
+Correctly predicted examples using weight vector- 522  :  23
+Distinct weight vector- 523  :  [-4.11941009 -3.470324   -2.18559092 -1.8562225 ]
+Correctly predicted examples using weight vector- 523  :  28
+Distinct weight vector- 524  :  [-4.11953861 -3.456461   -2.20524192 -1.85540496]
+Correctly predicted examples using weight vector- 524  :  8
+Distinct weight vector- 525  :  [-4.09710661 -3.508608   -2.24562792 -1.73523496]
+Correctly predicted examples using weight vector- 525  :  25
+Distinct weight vector- 526  :  [-4.09049371 -3.259468   -2.53963792 -1.79739096]
+Correctly predicted examples using weight vector- 526  :  6
+Distinct weight vector- 527  :  [-3.96851371 -3.049648   -2.85917792 -1.78454796]
+Correctly predicted examples using weight vector- 527  :  10
+Distinct weight vector- 528  :  [-4.12880371 -3.088551   -2.69717792 -1.59351796]
+Correctly predicted examples using weight vector- 528  :  53
+Distinct weight vector- 529  :  [-3.97803371 -2.892591   -3.00301792 -1.60576096]
+Correctly predicted examples using weight vector- 529  :  40
+Distinct weight vector- 530  :  [-3.81899371 -2.671381   -3.31484792 -1.61748596]
+Correctly predicted examples using weight vector- 530  :  38
+Distinct weight vector- 531  :  [-3.66089371 -2.584472   -3.54622792 -1.53507396]
+Correctly predicted examples using weight vector- 531  :  10
+Distinct weight vector- 532  :  [-3.88706371 -3.058752   -2.91133792 -1.52391196]
+Correctly predicted examples using weight vector- 532  :  11
+Distinct weight vector- 533  :  [-3.95694271 -3.396462   -2.49922792 -1.37348196]
+Correctly predicted examples using weight vector- 533  :  17
+Distinct weight vector- 534  :  [-3.95392081 -3.501582   -2.35898792 -1.29611296]
+Correctly predicted examples using weight vector- 534  :  51
+Distinct weight vector- 535  :  [-3.82820081 -3.014272   -2.88759792 -1.88352296]
+Correctly predicted examples using weight vector- 535  :  12
+Distinct weight vector- 536  :  [-3.62510081 -2.829072   -3.18880792 -1.88322266]
+Correctly predicted examples using weight vector- 536  :  12
+Distinct weight vector- 537  :  [-3.55067281 -3.206302   -3.02749792 -1.72568266]
+Correctly predicted examples using weight vector- 537  :  19
+Distinct weight vector- 538  :  [-3.55026736 -3.143397   -3.09161892 -1.64986566]
+Correctly predicted examples using weight vector- 538  :  4
+Distinct weight vector- 539  :  [-3.49432836 -3.174437   -3.07331192 -1.60521266]
+Correctly predicted examples using weight vector- 539  :  2
+Distinct weight vector- 540  :  [-3.57178936 -3.362117   -2.83308192 -1.49202266]
+Correctly predicted examples using weight vector- 540  :  34
+Distinct weight vector- 541  :  [-3.33261936 -2.906467   -3.33196192 -1.78189266]
+Correctly predicted examples using weight vector- 541  :  10
+Distinct weight vector- 542  :  [-3.53327936 -3.578367   -2.43034192 -1.77189416]
+Correctly predicted examples using weight vector- 542  :  13
+Distinct weight vector- 543  :  [-3.35996936 -3.182927   -2.90446192 -2.02206416]
+Correctly predicted examples using weight vector- 543  :  25
+Distinct weight vector- 544  :  [-3.37726536 -3.301087   -2.76628192 -1.94870416]
+Correctly predicted examples using weight vector- 544  :  5
+Distinct weight vector- 545  :  [-3.35287136 -3.153757   -2.90820192 -2.00723916]
+Correctly predicted examples using weight vector- 545  :  21
+Distinct weight vector- 546  :  [-3.40482136 -2.827427   -3.21715192 -1.90874916]
+Correctly predicted examples using weight vector- 546  :  8
+Distinct weight vector- 547  :  [-3.55804136 -3.337087   -2.54936192 -1.89125116]
 Correctly predicted examples using weight vector- 547  :  12
-Distinct weight vector- 548  :  [-3.611179  -2.909824  -2.7290955 -1.7229733]
-Correctly predicted examples using weight vector- 548  :  1
-Distinct weight vector- 549  :  [-3.622895  -2.849402  -2.7676825 -1.7288798]
-Correctly predicted examples using weight vector- 549  :  4
-Distinct weight vector- 550  :  [-3.517375  -2.730832  -3.0317925 -1.7178468]
-Correctly predicted examples using weight vector- 550  :  8
-Distinct weight vector- 551  :  [-3.853195  -3.454872  -1.8876025 -1.7749598]
-Correctly predicted examples using weight vector- 551  :  9
-Distinct weight vector- 552  :  [-4.053705  -2.768492  -2.7008025 -1.7509498]
-Correctly predicted examples using weight vector- 552  :  5
-Distinct weight vector- 553  :  [-3.851935  -2.588672  -2.9966125 -1.7299598]
-Correctly predicted examples using weight vector- 553  :  11
-Distinct weight vector- 554  :  [-4.178855  -3.862732  -1.4408825 -1.7441418]
-Correctly predicted examples using weight vector- 554  :  24
-Distinct weight vector- 555  :  [-4.230805  -3.536402  -1.7498325 -1.6456518]
-Correctly predicted examples using weight vector- 555  :  14
-Distinct weight vector- 556  :  [-4.052055  -3.058402  -2.2634525 -1.9692718]
-Correctly predicted examples using weight vector- 556  :  12
-Distinct weight vector- 557  :  [-4.0490331 -3.163522  -2.1232125 -1.8919028]
-Correctly predicted examples using weight vector- 557  :  2
-Distinct weight vector- 558  :  [-3.9972331 -3.137657  -2.2072975 -1.7957848]
-Correctly predicted examples using weight vector- 558  :  10
-Distinct weight vector- 559  :  [-3.9811251 -2.491417  -3.0430275 -1.6436248]
-Correctly predicted examples using weight vector- 559  :  12
-Distinct weight vector- 560  :  [-4.3507351 -3.859207  -1.2850775 -1.9054348]
-Correctly predicted examples using weight vector- 560  :  16
-Distinct weight vector- 561  :  [-4.3263411 -3.711877  -1.4269975 -1.9639698]
-Correctly predicted examples using weight vector- 561  :  1
-Distinct weight vector- 562  :  [-4.1069111 -3.256847  -1.9245975 -2.2365098]
-Correctly predicted examples using weight vector- 562  :  1
-Distinct weight vector- 563  :  [-4.2435111 -3.238431  -1.8340585 -2.0784498]
-Correctly predicted examples using weight vector- 563  :  40
-Distinct weight vector- 564  :  [-4.1423411 -3.148211  -2.0691185 -2.0357358]
-Correctly predicted examples using weight vector- 564  :  61
-Distinct weight vector- 565  :  [-3.9690311 -2.752771  -2.5432385 -2.2859058]
-Correctly predicted examples using weight vector- 565  :  17
-Distinct weight vector- 566  :  [-3.8099911 -2.531561  -2.8550685 -2.2976308]
-Correctly predicted examples using weight vector- 566  :  24
-Distinct weight vector- 567  :  [-3.8125225 -2.548944  -2.8664075 -2.1756508]
-Correctly predicted examples using weight vector- 567  :  20
-Distinct weight vector- 568  :  [-3.6825225 -3.575724  -2.5711075 -1.5892708]
-Correctly predicted examples using weight vector- 568  :  37
-Distinct weight vector- 569  :  [-3.5605425 -3.365904  -2.8906475 -1.5764278]
-Correctly predicted examples using weight vector- 569  :  36
+Distinct weight vector- 548  :  [-3.45687136 -3.246867   -2.78442192 -1.84853716]
+Correctly predicted examples using weight vector- 548  :  21
+Distinct weight vector- 549  :  [-3.27812136 -2.768867   -3.29804192 -2.17215716]
+Correctly predicted examples using weight vector- 549  :  31
+Distinct weight vector- 550  :  [-3.74577136 -3.335227   -2.20114192 -2.20560616]
+Correctly predicted examples using weight vector- 550  :  5
+Distinct weight vector- 551  :  [-3.61059136 -3.229277   -2.43551192 -2.16560816]
+Correctly predicted examples using weight vector- 551  :  13
+Distinct weight vector- 552  :  [-3.59846536 -3.20693    -2.48283892 -2.06858416]
+Correctly predicted examples using weight vector- 552  :  43
+Distinct weight vector- 553  :  [-3.56082836 -3.289288   -2.40429592 -1.99406016]
+Correctly predicted examples using weight vector- 553  :  25
+Distinct weight vector- 554  :  [-3.41581836 -2.928618   -2.80986592 -2.15372016]
+Correctly predicted examples using weight vector- 554  :  8
+Distinct weight vector- 555  :  [-3.43721236 -2.996905   -2.80021272 -2.03407016]
+Correctly predicted examples using weight vector- 555  :  3
+Distinct weight vector- 556  :  [-3.47013236 -2.551385   -3.25739272 -1.93519016]
+Correctly predicted examples using weight vector- 556  :  14
+Distinct weight vector- 557  :  [-3.36819236 -2.441095   -3.48739272 -1.87579516]
+Correctly predicted examples using weight vector- 557  :  4
+Distinct weight vector- 558  :  [-3.49188236 -2.610155   -3.23559272 -1.82415916]
+Correctly predicted examples using weight vector- 558  :  6
+Distinct weight vector- 559  :  [-3.29011236 -2.430335   -3.53140272 -1.80316916]
+Correctly predicted examples using weight vector- 559  :  2
+Distinct weight vector- 560  :  [-3.61316236 -3.151685   -2.36707272 -1.89778216]
+Correctly predicted examples using weight vector- 560  :  3
+Distinct weight vector- 561  :  [-3.61569376 -3.169068   -2.37841172 -1.77580216]
+Correctly predicted examples using weight vector- 561  :  14
+Distinct weight vector- 562  :  [-3.59958576 -2.522828   -3.21414172 -1.62364216]
+Correctly predicted examples using weight vector- 562  :  15
+Distinct weight vector- 563  :  [-3.81168576 -2.528416   -3.01924172 -1.48834216]
+Correctly predicted examples using weight vector- 563  :  5
+Distinct weight vector- 564  :  [-3.87745276 -2.808596   -2.64809172 -1.38860316]
+Correctly predicted examples using weight vector- 564  :  29
+Distinct weight vector- 565  :  [-3.82565276 -2.782731   -2.73217672 -1.29248516]
+Correctly predicted examples using weight vector- 565  :  26
+Distinct weight vector- 566  :  [-3.89166076 -3.105331   -2.35159672 -1.17412516]
+Correctly predicted examples using weight vector- 566  :  11
