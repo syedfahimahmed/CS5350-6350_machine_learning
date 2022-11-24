@@ -48,7 +48,7 @@ class DualSVM:
     def constraints(self, lambdas):
         return np.dot(lambdas.T, self.y)
 
-    def predict(self, X: np.ndarray):
+    def predict(self, X):
         prediction_res = []
 
         for i in range(len(X)):
@@ -60,7 +60,7 @@ class DualSVM:
 
         return np.array(prediction_res)
 
-    def evaluate(self, X: np.ndarray, y: np.ndarray):
+    def evaluate(self, X, y):
         return np.mean(self.predict(X) != y)
 
     def linear_kernel(self, x1, x2):
