@@ -16,5 +16,8 @@ For Perceptron
 - bash run.sh to generate results for standard, voted and average perceptron respectively.
 - voted percentron weights are saved in voted_weights_count.txt file
 
+For SVM
+- go to SVM folder
+- bash run.sh to generate results for different learning rates, C and linear, non-linear(gaussian kernel) SVM
 
 There is a run.sh file for eash folder
