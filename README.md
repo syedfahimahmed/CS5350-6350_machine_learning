@@ -14,6 +14,7 @@ For Ensemble Learning
 For Perceptron
 - go to Perceptron folder
 - bash run.sh to generate results for standard, voted and average perceptron respectively.
+- voted percentron weights are saved in voted_weights_count.txt file
 
 
 There is a run.sh file for eash folder
