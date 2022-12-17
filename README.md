@@ -20,4 +20,12 @@ For SVM
 - go to SVM folder
 - bash run.sh to generate results for different learning rates, C and linear, non-linear(gaussian kernel) SVM
 
+For Neural Networks
+- go to Neural Networks folder
+- bash run.sh to generate results for Scratch Ann and PyTorch Ann
+
+For Logistic Regression
+- go to Logistic Regression folder
+- bash run.sh to generate results for Logistic Regression (MAP and MLE)
+
 There is a run.sh file for eash folder
